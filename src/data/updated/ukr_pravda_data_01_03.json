@@ -1,0 +1,25 @@
+[
+    {
+        "date": "Понеділок, 30 грудня 2024, 11:49",
+        "link": "https://www.pravda.com.ua/news/2024/12/30/7491316/",
+        "title": "Скін для карток від \"Української правди\" тепер в Monobank",
+        "author": "Unknown Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [
+                    {
+                        "entity": "Monobank",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Українська правда",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    }
+]

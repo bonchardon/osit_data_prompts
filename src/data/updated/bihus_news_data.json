@@ -1,0 +1,598 @@
+[
+    {
+        "date": "12 Вересня 2024",
+        "link": "https://bihus.info/rozsliduvannya-bihus-info-pro-stezhennya-z-boku-sbu-vyznaly-krashhym-na-naczionalnomu-konkursi-zhurnalistskyh-rozsliduvan/",
+        "title": "Розслідування Bihus.Info про стеження з боку СБУ визнали кращим на Національному конкурсі журналістських розслідувань",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Сербін",
+                        "position": "юрист команди",
+                        "affiliations": [
+                            "підрозділ “Берлінго”"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Bihus.Info",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "NGL.media",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Служба безпеки України (СБУ)"
+                ]
+            },
+            {
+                "individuals": [
+                    {
+                        "name": "Керівник ДЗНД",
+                        "position": "Керівник",
+                        "affiliations": [
+                            "Департамент захисту національної державності"
+                        ]
+                    },
+                    {
+                        "name": "Працівники ДЗНД",
+                        "position": "Працівники",
+                        "affiliations": [
+                            "Департамент захисту національної державності"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Служба безпеки України (СБУ)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Державне бюро розслідувань",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Офіс генпрокурора"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "24 Січня 2025",
+        "link": "https://bihus.info/pidryady-na-masshtabnu-vidbudovu-borodyanky-viddaly-kompaniyam-z-otochennya-eksmera-irpenya-ta-novogo-ochilnyka-podatkovoyi/",
+        "title": "Підряди на масштабну відбудову Бородянки віддали компаніям з оточення ексмера Ірпеня та нового очільника податкової",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Володимир П’ятенко",
+                        "position": "Один з власників",
+                        "affiliations": [
+                            "Інвестиційно-будівельна компанія 'Білд Лайф'",
+                            "Партія 'Нові обличчя'"
+                        ]
+                    },
+                    {
+                        "name": "Володимир Карплюк",
+                        "position": "Колишній мер Ірпеня",
+                        "affiliations": [
+                            "Партія 'Нові обличчя'"
+                        ]
+                    },
+                    {
+                        "name": "Максим Плешко",
+                        "position": "Бізнес-партнер",
+                        "affiliations": [
+                            "ТОВ"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Інвестиційно-будівельна компанія 'Білд Лайф'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Київська обласна державна адміністрація"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17 Січня 2025",
+        "link": "https://bihus.info/yahtu-figuranta-rozsliduvannya-bihus-info-za-blyzko-55-mln-yevro-areshtuvaly-v-italiyi/",
+        "title": "Яхту фігуранта розслідування Bihus.Info за близько 5,5 млн євро арештували в Італії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Гмирін",
+                        "position": "Співорганізатор",
+                        "affiliations": [
+                            "Компанія Андрія Гмиріна"
+                        ]
+                    },
+                    {
+                        "name": "Дмитро Сенниченко",
+                        "position": "Невказано",
+                        "affiliations": [
+                            "Фонд держмайна"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "GFB COMPANY LTD",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18 Лютого 2025",
+        "link": "https://bihus.info/policziya-pereviryaye-tender-iz-jmovirnoyu-pidrobkoyu-dokumentiv-pislya-zvernennya-yurystiv-bihus-info/",
+        "title": "Поліція перевіряє тендер із ймовірною підробкою документів – після звернення юристів Bihus.Info",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Наталія Павленко",
+                        "position": "Підприємиця",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Антимонопольний комітет України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18 Лютого 2025",
+        "link": "https://bihus.info/policziya-pereviryaye-jmovirnu-pereplatu-za-remont-obstrilyanogo-rosiyanamy-gurtozhytku-pislya-zvernennya-yurystiv-bihus-info/",
+        "title": "Поліція перевіряє ймовірну переплату за ремонт обстріляного росіянами гуртожитку після звернення юристів Bihus.Info",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ольга Руда",
+                        "position": "Місцева підприємиця",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Державний університет економіки і технологій у Кривому Розі",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Криворізька прокуратура",
+                    "Криворізьке районне управління поліції ГУНП"
+                ]
+            },
+            {
+                "message": "No corruption-related data found."
+            }
+        ]
+    },
+    {
+        "date": "25 Лютого 2025",
+        "link": "https://bihus.info/otochennya-praczivnyka-sbu-i-kerivnyka-derzhliksluzhby-stvorylo-pryvatnu-laboratoriyu-yakij-derzhliksluzhba-viddaye-perevirku-likiv/",
+        "title": "Оточення працівника СБУ і керівника Держлікслужби створило приватну лабораторію, якій Держлікслужба віддає перевірку ліків",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дмитро Устік",
+                        "position": "Власник лабораторії",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ірина Пономаренко",
+                        "position": "Власник лабораторії",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Роман Ісаєнко",
+                        "position": "Очільник Держлікслужби",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валентин Оврамець",
+                        "position": "Працівник СБУ",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Держлікслужба",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "СБУ",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Добробут-Лікилаб",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": []
+            }
+        ]
+    },
+    {
+        "date": "No Date",
+        "link": "https://bihus.info/novyny/",
+        "title": "No Title",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Брагінський",
+                        "position": "Директор КП «Київський метрополітен»",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "КП «Київський метрополітен»",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Ужгородський ліцей №12",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "20 Січня 2025",
+        "link": "https://bihus.info/kyyivskyj-suddya-zhyve-v-mayetku-pid-kyyevom-z-vynogradnykamy-ozeramy-i-lisom-navkolo/",
+        "title": "Суддя Верховного суду живе в маєтку за $1 млн з виноградниками, озерами і лісом: все записане на давніх знайомих",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Жуков",
+                        "position": "Суддя Касаційного господарського суду у складі Верховного суду України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Євгенія Жукова",
+                        "position": "Суддя Київського окружного адміністративного суду",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Юридична компанія Сергія Жукова у Дніпрі",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            },
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "22 Січня 2025",
+        "link": "https://bihus.info/nachalnyk-golovnogo-servisnogo-czentru-zvilnyayetsya-razom-z-nym-ishhe-7-figurantiv-rozsliduvannya-bihus-info/",
+        "title": "Начальник Головного сервісного центру звільняється – разом з ним іще 8 фігурантів розслідування Bihus.Info",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Рудик",
+                        "position": "Голова ГСЦ",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "МВС",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ГСЦ",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "МВС",
+                    "ГСЦ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17 Лютого 2025",
+        "link": "https://bihus.info/shkola-rozsliduvan-dlya-veteraniv-ok-2-0-vid-bihus-info-gotovi-vchytys-robyty-topovi-rozsliduvannya/",
+        "title": "Школа розслідувань для ветеранів/ок 2.0 від Bihus.Info: готові вчитись робити топові розслідування?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Борців з корупцією",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "випускники",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "фігуранти",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "редакція Bihus.Info",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "26 Грудня 2024",
+        "link": "https://bihus.info/suddi-i-policzejski-masovo-pryvatyzuyut-sluzhbove-zhytlo-vygaduyuchy-sposoby-pryhovaty-vlasne/",
+        "title": "Судді і поліцейські масово приватизують службове житло, вигадуючи способи “приховати” власне",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Людмила Губська",
+                        "position": "Колишня суддя Шостого апеляційного адміністративного суду",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ЖК 'Комфорт Таун'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Суди",
+                    "СБУ",
+                    "ГУР",
+                    "Поліція",
+                    "Рятувальна служба",
+                    "Комунальні служби"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13 Січня 2025",
+        "link": "https://bihus.info/gazovyky-vidpysaly-15-milyarda-baleryni-iz-istoriyi-pro-deryban-v-kyyivskomu-metro/",
+        "title": "Газовики відписали 1,5 мільярда балерині із історії про дерибан в Київському метро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Оператор ГТСУ",
+                        "position": "Монопольна структура",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "ТОВ «КБ «ТЕА»",
+                        "position": "Підрядник",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ТОВ «Оператор ГТСУ»",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "ТОВ «КБ «ТЕА»",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            },
+            {
+                "individuals": [
+                    {
+                        "name": "Юрій Ніколов",
+                        "position": "Редактор проекту «Наші Гроші»",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ТОВ «КБ «ТЕА»",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "ONUR",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "No Date",
+        "link": "https://bihus.info/my-vplynuly/",
+        "title": "No Title",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Брагінський",
+                        "position": "Директор КП «Київський метрополітен»",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "КП «Київський метрополітен»",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Ужгородський ліцей №12",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10 Лютого 2025",
+        "link": "https://bihus.info/nazk-pereviryaye-sposib-zhyttya-suddi-zhukova-pislya-syuzhetu-bihus-info/",
+        "title": "НАЗК перевіряє спосіб життя судді Жукова після сюжету Bihus.Info",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Жуков",
+                        "position": "Суддя Касаційного Верховного суду",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Дмитро Жорніченко",
+                        "position": "Товариш Сергія Жукова",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Станіслав Жуков",
+                        "position": "Син судді Сергія Жукова",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне агентство з питань запобігання корупції (НАЗК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17 Січня 2025",
+        "link": "https://bihus.info/sbu-zatrymala-figuranta-syuzhetu-bihus-info-pro-rozpyly-na-budivnycztvi-shkil-hersonshhyny-za-zbir-vidkativ/",
+        "title": "СБУ затримала фігуранта сюжету Bihus.Info про розпили на будівництві шкіл Херсонщини за збір “відкатів”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Новохацький",
+                        "position": "Посередник",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Директор однієї з херсонських компаній",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "КП 'Херсонтеплоенерго'",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Служба безпеки України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "20 Лютого 2025",
+        "link": "https://bihus.info/fantomni-budynky-i-shhedri-rodychi-pensionery-kogo-pislya-korupczijnogo-skandalu-v-kyyivskomu-metro-zabuly-pravoohoronczi/",
+        "title": "Фантомні будинки і щедрі родичі-пенсіонери: кого після корупційного скандалу в Київському метро “забули” правоохоронці",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дмитро Пеклун",
+                        "position": "Заступник директора КП",
+                        "affiliations": [
+                            "НАК «Нафтогаз»"
+                        ]
+                    },
+                    {
+                        "name": "Дружина Пеклуна",
+                        "position": "Не зазначено",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "70-річна теща Пеклуна",
+                        "position": "Не зазначено",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Брагінський",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    }
+]

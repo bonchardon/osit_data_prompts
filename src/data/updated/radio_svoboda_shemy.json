@@ -1,0 +1,908 @@
+[
+    {
+        "date": "26 лютого 2025, 19:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-kyrylenko-mkrtchan-zastava/33329204.html",
+        "title": "«Схеми» дізнались, хто вніс 30 мільйонів гривень застави за Кириленка",
+        "author": "Георгій Шабаєв",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Павло Кириленко",
+                        "position": "Очільник Антимонопольного комітету України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Едуард Мкртчан",
+                        "position": "Бізнесмен",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Компанія, бенефіціарним співвласником якої є Едуард Мкртчан",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ (Національне антикорупційне бюро України)",
+                    "САП (Спеціалізована антикорупційна прокуратура)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19 лютого 2025, 08:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-ripak-oliya-khersonshchyna-bilorus-yevrosoyuz/33319340.html",
+        "title": "Як ріпак, вивезений із окупованої Херсонщини, перетворюють на олію в Білорусі і продають в ЄС (розслідування)",
+        "author": "Максим Савчук",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "журналісти «Схем» (Радіо Свобода)",
+                        "position": "журналісти",
+                        "affiliations": [
+                            "Радіо Свобода"
+                        ]
+                    },
+                    {
+                        "name": "литовське видання 15min.lt",
+                        "position": "журналісти",
+                        "affiliations": [
+                            "15min.lt"
+                        ]
+                    },
+                    {
+                        "name": "латвійський телеканал TV3",
+                        "position": "журналісти",
+                        "affiliations": [
+                            "TV3"
+                        ]
+                    },
+                    {
+                        "name": "«Білоруський розслідувальний центр»",
+                        "position": "розслідувачі",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "«Співтовариство залізничників Білорусі»",
+                        "position": "організація",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "група «Кіберпартизани»",
+                        "position": "гакерська група",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "група KibOrg",
+                        "position": "гакерська група",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "13 лютого 2025, 19:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-kuba-rosiya-naymantsi/33311322.html",
+        "title": "«Кубинський десант» в армії РФ: як Росія вербує найманців із Куби на війну проти України",
+        "author": "Валерія Єгошина",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "дослідники",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "30 січня 2025, 20:52",
+        "link": "https://www.radiosvoboda.org/a/skhemy-kytay-rosiya-metaly-stybiy-haliy-hermaniy/33297483.html",
+        "title": "Як Китай забезпечує воєнну машину РФ критично важливими рідкісними металами (розслідування)",
+        "author": "Кирило Овсяний",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "журналісти «Схем»",
+                        "position": "журналісти",
+                        "affiliations": [
+                            "проєкт розслідувань Радіо Свобода"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Китай",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "13 січня 2025, 18:51",
+        "link": "https://www.radiosvoboda.org/a/skhemy-naumov-kvartyry-turechchyna/33270101.html",
+        "title": "Експосадовець СБУ Наумов, перед виїздом з України напередодні «великої» війни, скупив елітні квартири в Туреччині – «Схеми»",
+        "author": "Валерія Єгошина",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Наумов",
+                        "position": "Ексначальник Головного управління внутрішньої безпеки СБУ",
+                        "affiliations": [
+                            "СБУ"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Державне бюро розслідувань",
+                    "Інтерпол"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "20 грудня 2024, 10:30",
+        "link": "https://www.radiosvoboda.org/a/skhemy-kaptyelov--sluha-narodu-rodyna-moskva/33246063.html",
+        "title": "Про що мовчить «слуга народу»: родина в Росії, дружина з зарплатою в рублях та квартира в Москві",
+        "author": "Сергій Андрушко",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Роман Каптєлов",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Фракція 'Слуга народу'"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18 грудня 2024, 17:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-hromadyany-rf-yevsyeyeva-aktyvy-likvidovanykh-bankiv/33243355.html",
+        "title": "Росіяни з паспортами США та «представник спецслужб РФ». Хто скуповує активи ліквідованих російських банків в Україні?",
+        "author": "Георгій Шабаєв",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "громадянка РФ",
+                        "position": "переможець у торгах",
+                        "affiliations": [
+                            "компанія «Схеми»"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Фонд гарантування вкладів"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "06 грудня 2024, 20:24",
+        "link": "https://www.radiosvoboda.org/a/skhemy-novoukrayinka-tatarov-posadovtsi-pravookhoronni-orhany/33229482.html",
+        "title": "Земляки з Новоукраїнки. Давні знайомі Олега Татарова на впливових посадах в Нацполі, МВС та ДБР",
+        "author": "Ольга Івлєва",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олег Татаров",
+                        "position": "Заступник керівника Офісу президента України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Володимир Зеленський",
+                        "position": "Президент України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "26 листопада 2024, 19:02",
+        "link": "https://www.radiosvoboda.org/a/skhemy-ukrayina-rosiya-bombarduvalnyky-tu-160-tu-95/33216372.html",
+        "title": "25 років тому Україна віддала Росії бомбардувальники. Тепер вони – у бойовому складі армії РФ",
+        "author": "Сергій Андрушко",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [
+                    {
+                        "entity": "Україна",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Росія",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "16 листопада 2024, 13:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-ukrayinski-dity-yunarmiya-viyna/33203644.html",
+        "title": "Із «Юнармії» – на фронт: як Росія готує українських дітей в окупації до війни проти власної країни",
+        "author": "Максим Савчук",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Шойгу",
+                        "position": "Міністр оборони Росії",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валерій Востротін",
+                        "position": "Організація ветеранів Збройних Сил РФ",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Світлана Хоркіна",
+                        "position": "Гімнастка",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Артур Чилінгаров",
+                        "position": "Океанолог",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валентина Терешкова",
+                        "position": "Космонавтка і депутатка Держдуми",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Юнармія",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "12 листопада 2024, 21:21",
+        "link": "https://www.radiosvoboda.org/a/skhemy-sluha-narodu-kasay-apartamenty-dubay/33199180.html",
+        "title": "Родина «слуги народу», яка постачала армії куртки втридорога, скупила майно в Дубаї на мільйон доларів",
+        "author": "Кирило Овсяний",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Касай",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Слуга народу"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "22 жовтня 2024, 21:45",
+        "link": "https://www.radiosvoboda.org/a/skhemy-yak-ukrayina-vtratyla-milyard/33168045.html",
+        "title": "Як Україна втратила мільярд. Російський бізнес відійшов у приватні руки, попри санкції. Називаємо причетних",
+        "author": "Ольга Івлєва",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олексій Дерипаска",
+                        "position": "Олігарх",
+                        "affiliations": [
+                            "Російський бізнесмен"
+                        ]
+                    },
+                    {
+                        "name": "Аркадій Ротенберг",
+                        "position": "Олігарх",
+                        "affiliations": [
+                            "Російський бізнесмен"
+                        ]
+                    },
+                    {
+                        "name": "Олександр Гінер",
+                        "position": "Олігарх",
+                        "affiliations": [
+                            "Російський бізнесмен"
+                        ]
+                    },
+                    {
+                        "name": "Борис Євтушенков",
+                        "position": "Олігарх",
+                        "affiliations": [
+                            "Російський бізнесмен"
+                        ]
+                    },
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Політик",
+                        "affiliations": [
+                            "Екс-президент України"
+                        ]
+                    },
+                    {
+                        "name": "Сергій Сальдо",
+                        "position": "Пособник-український можновладець",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Богуслаєв",
+                        "position": "Пособник-український можновладець",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ігор Наумець",
+                        "position": "Бізнесмен",
+                        "affiliations": [
+                            "Власник українських підприємств"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Українаконфіскувала",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10 жовтня 2024, 17:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-rozenblat-nerukhomist-dubay-deklaratsiya/33153792.html",
+        "title": "«Схеми»: Депутатка Розенблат не задекларувала майна та доходів у Дубаї на 1 мільйон доларів",
+        "author": "Кирило Овсяний",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олена Розенблат",
+                        "position": "Депутатка Житомирської міськради",
+                        "affiliations": [
+                            "Партія «Батьківщина»"
+                        ]
+                    },
+                    {
+                        "name": "Борислав Розенблат",
+                        "position": "Екснардеп",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [
+                    "Дубайські державні реєстри"
+                ],
+                "government_bodies": [
+                    "Антикорупційні органи"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08 жовтня 2024, 18:30",
+        "link": "https://www.radiosvoboda.org/a/fsb-pidlitky-pidpaly-avto-zsu/33149666.html",
+        "title": "Небезпечний тренд: ФСБ вербує українських дітей для підпалів авто ЗСУ",
+        "author": "Ірина Сисак",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "ФСБ",
+                        "position": "Російські спецслужби",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "військовослужбовці ЗСУ",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Укрзалізниця",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ТЦК",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18 вересня 2024, 13:30",
+        "link": "https://www.radiosvoboda.org/a/skhemy-poliyenko-natspol-kvartyra-teshcha/33123961.html",
+        "title": "Столичний поліцейський живе у квартирі тещі на 220 квадратів, яка офіційно за життя заробила 100 гривень",
+        "author": "Кирило Овсяний",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Тарас Полієнко",
+                        "position": "Заступник начальника Головного управління Національної поліції Києва",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валентина Ткаченко",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національна поліція"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "16 вересня 2024, 18:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-kreml-dezinformatsiya-asd-hambashydze/33121898.html",
+        "title": "Темники, меми, «реєстр фейків та допреальності». Як працює агенція-підрядник Кремля із дезінформації",
+        "author": "Максим Савчук",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ілля Гамбашидзе",
+                        "position": "Політтехнолог",
+                        "affiliations": [
+                            "Агенція соціального дизайну"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Агенція соціального дизайну"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "29 серпня 2024, 16:54",
+        "link": "https://www.radiosvoboda.org/a/skhemy-kyrylenko-fedytnyk-tatarov/33098441.html",
+        "title": "Юрист, тісно пов'язаний з Татаровим, консультував родину Кириленка, як приховати докази про їхнє елітне майно",
+        "author": "Георгій Шабаєв",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Павло Кириленко",
+                        "position": "Голова Антимонопольного комітету",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Василь Федитник",
+                        "position": "Адвокат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олег Татаров",
+                        "position": "Заступник керівника Офісу президента",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура",
+                    "НАБУ",
+                    "САП"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "27 серпня 2024, 18:40",
+        "link": "https://www.radiosvoboda.org/a/skhemy-ahroproduktsiya-khersonshchyna-kadyrov-edynaya-rossyya/33094416.html",
+        "title": "Бізнесменам, пов’язаним з оточенням Кадирова та «Единой Россией», віддали ринок ріпаку на окупованій Херсонщині",
+        "author": "Максим Савчук",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Рамзан Кадиров",
+                        "position": "Лідер Чечні",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ахмат Кадиров",
+                        "position": "Батько Рамзана Кадирова",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Білоруський розслідувальницький центр",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Українські гакери KibOrg",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Радіо Свобода «Схеми»",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Федеральна державна інформаційна система «Зерно»",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Міністерство сільського господарства РФ",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "22 серпня 2024, 19:26",
+        "link": "https://www.radiosvoboda.org/a/skhemy-rosiyski-liky-merezha-aptek-elfarm/33088549.html",
+        "title": "Нелегальні російські ліки для українців: «Схеми» викрили мережу, що продає контрабандні препарати",
+        "author": "Кирило Овсяний",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Журналісти «Схем»",
+                        "position": "Журналісти",
+                        "affiliations": [
+                            "«Схеми»"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "аптечна мережа",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "08 серпня 2024, 18:30",
+        "link": "https://www.radiosvoboda.org/a/skhemy-bilorus-kaliy-biznesmen-bobyr-avto-hazprom/33065280.html",
+        "title": "Бізнесмен зі Львова: перевалка в Санкт-Петербурзі, білоруський кум та авто для топів «Газпрому»",
+        "author": "Максим Савчук",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олександр Лукашенко",
+                        "position": "Президент",
+                        "affiliations": [
+                            "Режим Олександра Лукашенка"
+                        ]
+                    },
+                    {
+                        "name": "Львівський бізнесмен",
+                        "position": "Н/Д",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Український підприємець",
+                        "position": "Н/Д",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Білоруськалій",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Кіпрська фірма",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [
+                    "Немає згадок про офшорні компанії"
+                ],
+                "government_bodies": [
+                    "Служба безпеки України (СБУ)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "29 липня 2024, 10:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-mikrokredytni-orhanizatsiyi-hromadyany-rf/33050836.html",
+        "title": "«Швидкі» гроші для українців від громадян РФ: «Схеми» знайшли російські паспорти у власників мережі мікрокредитних організацій",
+        "author": "Георгій Шабаєв",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Подружжя громадян з Російської Федерації",
+                        "position": "Власники мікрокредитної організації",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Син подружжя",
+                        "position": "Депутат від «Єдиної Росії» в окупованому Криму",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Мережа мікрокредитних організацій",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18 липня 2024, 18:55",
+        "link": "https://www.radiosvoboda.org/a/skhemy-syn-hladkovskyy-villa-ispaniya/33041423.html",
+        "title": "Родина ексзаступника секретаря РНБО зводить нову віллу в курортному регіоні Іспанії – «Схеми»",
+        "author": "Ольга Івлєва",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Михайло Гладковський",
+                        "position": "",
+                        "affiliations": [
+                            "Bilderberg Consulting Financiero"
+                        ]
+                    },
+                    {
+                        "name": "Олег Гладковський (Свинарчук)",
+                        "position": "",
+                        "affiliations": [
+                            "колишній перший заступник секретаря РНБО"
+                        ]
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "колишній президент України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ігор Кононенко",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Bilderberg Consulting Financiero",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08 липня 2024, 07:00",
+        "link": "https://www.radiosvoboda.org/a/skhemy-snaryady-dlya-ukrayiny-yes-porushuye-obitsyanky/33025231.html",
+        "title": "Снаряди для України: ЄС принаймні вдвічі переоцінює свої потужності виробництва і порушує обіцянки обсягів поставок в Україну",
+        "author": "Валерія Єгошина",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Посадовці ЄС",
+                        "position": "Високопосадовці ЄС",
+                        "affiliations": [
+                            "Європейський союз"
+                        ]
+                    },
+                    {
+                        "name": "Журналісти",
+                        "position": "Журналісти",
+                        "affiliations": [
+                            "Проєкт Радіо Свобода"
+                        ]
+                    },
+                    {
+                        "name": "Виробники та покупці боєприпасів",
+                        "position": "Н/Д",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Урядовці, політичні радники і військові експерти",
+                        "position": "Н/Д",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Європейські виробники",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Уряд України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05 липня 2024, 20:16",
+        "link": "https://www.radiosvoboda.org/a/skhemy-sanatoriy-koral-tedeyev/33023587.html",
+        "title": "Чий «Корал»? Український слід у курортному бізнесі в Криму під прапором РФ",
+        "author": "Максим Савчук",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ельбрус Тедеєв",
+                        "position": "ексрегіонал",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Фаїна Тедеєва",
+                        "position": "дружина колишнього народного депутата",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Наталія Щокіна",
+                        "position": "дружина президента Міжрегіональної академії управління персоналом",
+                        "affiliations": [
+                            "Міжрегіональна академія управління персоналом"
+                        ]
+                    },
+                    {
+                        "name": "Віктор Крейдич",
+                        "position": "борець-білорус з проросійськими поглядами",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Санаторій «Корал»",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "ООО «Санаторий «Коралл»",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Приватне підприємство – фірма «БНА»",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "01 липня 2024, 18:40",
+        "link": "https://www.radiosvoboda.org/a/skhemy-epitsentry-luhanshchyna-zaporizhzhya-korolevska/33015732.html",
+        "title": "Слід Королевської. Кому відійшли колишні «Епіцентри» на окупованій частині Запоріжжя та Луганщини?",
+        "author": "Максим Савчук",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Якубовський Леонідович",
+                        "position": "Власник мережі 'Епіцентр'",
+                        "affiliations": [
+                            "Російська федерація"
+                        ]
+                    },
+                    {
+                        "name": "Наталія Королевська",
+                        "position": "Колишня народна депутатка від ОПЗЖ",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Мережа 'Епіцентр'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Українські правоохоронні органи"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10 червня 2024, 21:18",
+        "link": "https://www.radiosvoboda.org/a/skhemy-divchyna-zastupnyk-henprokurora-kotedzh-porshe-salon/32986203.html",
+        "title": "Дівчина на мільйон доларів: котедж, Porsche та салон краси для обраниці заступника генпрокурора Вербицького",
+        "author": "Георгій Шабаєв",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дмитро Вербицький",
+                        "position": "заступник генерального прокурора України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Костін",
+                        "position": "генеральний прокурор України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Одеська обласна прокуратура",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Компанія-забудовник котеджного містечка «Коник»",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Державне бюро розслідувань (ДБР)"
+                ]
+            }
+        ]
+    }
+]

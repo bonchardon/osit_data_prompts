@@ -1,0 +1,279 @@
+[
+    {
+        "date": "06/11/13",
+        "link": "https://antac.org.ua/news/hroshi-lazarenka-mayut-povertaty-neuryadovi-orhanizatsiji/",
+        "title": "Lazarenko’s assets should be recovered by the non-government organizations",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Pavlo Lazarenko",
+                        "position": "Former Prime Minister of Ukraine",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "U.S. Department of Justice",
+                        "type": "Government"
+                    },
+                    {
+                        "entity": "Independent Charity Foundation with International Steering Committee",
+                        "type": "Non-profit"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "06/11/13",
+        "link": "https://antac.org.ua/news/pravda-pro-povernennya-hroshej-lazarenka/",
+        "title": "Правда про повернення грошей Лазаренка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юлія Тимошенко",
+                        "position": "Колишній прем’єр-міністр України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Павло Лазаренко",
+                        "position": "Колишній прем’єр-міністр України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Клименко",
+                        "position": "Не вказано",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Азаров",
+                        "position": "Не вказано",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство доходів та зборів України",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Міністерство закордонних справ",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Міністерство доходів та зборів України",
+                    "Міністерство закордонних справ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/09/13",
+        "link": "https://antac.org.ua/news/tsentr-protydiji-koruptsiji-prezentuvav-promo-video-na-pidtrymku-zakonoproektu-2207/",
+        "title": "Здійснення державних закупівель по-новому",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Верховна Рада України",
+                        "position": "Законодавчий орган",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Президент",
+                        "position": "Глава держави",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "19/09/13",
+        "link": "https://antac.org.ua/news/chynovnyky-mozu-namahayutsya-zarobyty-na-hvoryh-na-hepatyt/",
+        "title": "Чиновники МОЗу намагаються заробити на хворих на гепатит",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Чиновники МОЗу",
+                        "position": "Невідомо",
+                        "affiliations": [
+                            "Міністерство охорони здоров'я"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Компанії-виробники ліків",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Кабінет Міністрів України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "06/09/13",
+        "link": "https://antac.org.ua/news/azarov-blokuje-nabrannya-chynnosti-poryadoku-zdijsnennya-perevirok-derzhzakupivel/",
+        "title": "Азаров блокує набрання чинності Порядку здійснення перевірок держзакупівель",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Держфінінспекція",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Уряд",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18/06/13",
+        "link": "https://antac.org.ua/news/analitychna-zapyska-po-koruptsiji-v-medychnyh-tenderah-dlya-profilnoji-tsk/",
+        "title": "Аналітична записка про корупцію в медичних тендерах для профільної ТСК",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Посадові особи Міністерства охорони здоров'я України",
+                        "position": "Невідомо",
+                        "affiliations": [
+                            "Міністерство охорони здоров'я України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство охорони здоров'я України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/06/13",
+        "link": "https://antac.org.ua/news/hroshi-lazarenka-mayut-povertaty-neuryadovi-orhanizatsiji-2/",
+        "title": "Гроші Лазаренка мають повертати неурядові організації",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Павло Лазаренко",
+                        "position": "Екс-прем’єр-міністр",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Департамент юстиції США"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/11/01",
+        "link": "https://antac.org.ua/news/mify-pro-novu-protseduru-areshtu-ta-spetsknfiskatsiji/",
+        "title": "Міфи про нову процедуру арешту та спецкнфіскації",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "16/04/13",
+        "link": "https://antac.org.ua/news/chym-je-rejtynh-ti-i-scho-tse-oznachaje-dlya-ukrajiny/",
+        "title": "Чим насправді є Індекс сприйняття корупції Transparency International і що нам з нього?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "03/04/13",
+        "link": "https://antac.org.ua/news/komitet-vru-z-pytan-ekonomichnoji-polityky-rekomenduvav-pryjnyaty-2207-v-pershomu-chytanni/",
+        "title": "Комітет ВРУ з питань економічної політики рекомендував прийняти 2207 в першому читанні",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "керівництво комітету",
+                        "position": "члени комітету",
+                        "affiliations": [
+                            "Верховна Рада України"
+                        ]
+                    },
+                    {
+                        "name": "співавтори законопроекту",
+                        "position": "невідомо",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "члени комітету з фракції Партії Регіонів",
+                        "position": "члени комітету",
+                        "affiliations": [
+                            "Партія Регіонів"
+                        ]
+                    },
+                    {
+                        "name": "члени комітету з фракції КПУ",
+                        "position": "члени комітету",
+                        "affiliations": [
+                            "КПУ"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,5232 @@
+[
+    {
+        "date": "28/03/19",
+        "link": "https://antac.org.ua/news/yak-henprokuratura-yaremy-shokina-lutsenka-ta-sap-holodnytskoho-zlyvaly-spravy-zlochevskoho/",
+        "title": "Як Генпрокуратура Яреми, Шокіна,  Луценка та САП Холодницького «зливали» справи Злочевського",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Злочевський",
+                        "position": "Власник компанії «Burisma»"
+                    },
+                    {
+                        "name": "Віталій Ярема",
+                        "position": "Генеральний прокурор"
+                    },
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор"
+                    },
+                    {
+                        "name": "Юрій Луценко",
+                        "position": "Генеральний прокурор"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "НАБУ",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Генпрокуратура",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "27/03/19",
+        "link": "https://antac.org.ua/news/rodychi-pravoji-ruky-lyashka-prodayut-neruhomist-v-krymu-splachuyuchy-podatky-v-rosiji/",
+        "title": "Дружина правої руки Ляшка продала нерухомість в Криму та сплатила податки в Росії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олексій Кочармін",
+                        "position": "Керівник секретаріату депутатської фракції Радикальної партії Олега Ляшка",
+                        "affiliations": [
+                            "Радикальна партія Олега Ляшка"
+                        ]
+                    },
+                    {
+                        "name": "Марина Кочарміна",
+                        "position": "Дружина керівника секретаріату депутатської фракції Радикальної партії Олега Ляшка"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "26/03/19",
+        "link": "https://antac.org.ua/news/konstytutsijnyj-sud-mozhe-skasuvaty-povernennya-derzhavi-7-mlrd-hrn/",
+        "title": "Конституційний суд може скасувати повернення державі 7 млрд грн",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ігор Коломойський",
+                        "position": "",
+                        "affiliations": [
+                            "Група 'Приват'"
+                        ]
+                    },
+                    {
+                        "name": "Геннадій Боголюбов",
+                        "position": "",
+                        "affiliations": [
+                            "Група 'Приват'"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "НАБУ (Національне антикорупційне бюро)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Запорізький завод феросплавів",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Конституційний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/03/19",
+        "link": "https://antac.org.ua/news/apelyatsijnyj-sud-zalyshyv-bez-zmin-pokarannya-upovnovazhenij-amku-zahrebelskij-teper-jiji-mozhut-zvilnyty/",
+        "title": "Апеляційний суд залишив без змін покарання уповноваженій АМКУ Загребельській. Тепер її можуть звільнити",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Агія Загребельська",
+                        "position": "державна уповноважена Антимонопольного комітету України",
+                        "affiliations": [
+                            "Антимонопольний комітет України"
+                        ]
+                    },
+                    {
+                        "name": "Андрій Савін",
+                        "position": "юрист Центру протидії корупції"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Антимонопольний комітет України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський районний суд міста Києва",
+                    "Київський апеляційний суд",
+                    "Європейський суд з прав людини",
+                    "Національне агентство з питань запобігання корупції"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/03/19",
+        "link": "https://antac.org.ua/news/anons-sud-rozhlyane-adminprotokol-na-nardepa-pavelka-zahalom-jih-13/",
+        "title": "АНОНС — Суд розгляне адмінпротокол на нардепа Павелка. Загалом їх 13",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Павелко",
+                        "position": "Народний депутат, голова бюджетного комітету Верховної Ради, президент Федерації футболу України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Білоцерківець О.А",
+                        "position": "Суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне агентство з питань запобігання корупції (НАЗК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/03/19",
+        "link": "https://antac.org.ua/news/verhovnyj-sud-vidmovyvsya-povertaty-ztmk-derzhavi-zavod-dali-kontrolyuvatyme-firtash/",
+        "title": "Верховний суд відмовився повертати ЗТМК державі. Завод далі контролюватиме Фірташ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дмитро Фірташ",
+                        "position": "Олігарх",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Запорізький титано-магнієвий комбінат (ЗТМК)",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховний суд",
+                    "Господарський суд Запорізької області"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/03/19",
+        "link": "https://antac.org.ua/news/lutsenko-skazav-nepravdu-pro-lyst-vid-posla-jovanovych/",
+        "title": "Проблеми з хронологією: Луценко сказав неправду, звинувачуючи посла США",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юрій Луценко",
+                        "position": "Генеральний прокурор України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Марі Йованович",
+                        "position": "Посол США",
+                        "affiliations": [
+                            "Посольство США"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19/03/19",
+        "link": "https://antac.org.ua/news/sprava-martynenka-eks-nardep-pereshkodzhaje-doslidzhennyu-otrymanyh-z-avstriji-dokaziv/",
+        "title": "Справа Мартиненка: екс-нардеп перешкоджає дослідженню отриманих з Австрії доказів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Штоєрман",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський суд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19/03/19",
+        "link": "https://antac.org.ua/news/anons-chy-buvaje-sribna-kulya-dlya-podolannya-koruptsiji-lektsiya/",
+        "title": "АНОНС — Чи буває срібна куля для подолання корупції? (лекція)",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Джованні Кесслер",
+                        "position": "Юрист, прокурор, колишній керівник Європейського бюро з питань боротьби з шахрайством, член Наглядової ради Центру протидії корупції"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Європейська прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/03/19",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-sud-prodovzhyt-doslidzhuvaty-dokazy-uranovoho-epizodu-na-ponad-17-mln-dolariv/",
+        "title": "АНОНС  — Справа Мартиненка: суд продовжить досліджувати докази уранового епізоду на понад 17 млн доларів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство енергетики та вугільної промисловості України",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "СхідГЗК",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "15/03/19",
+        "link": "https://antac.org.ua/news/anons-kontrabanda-na-odeskij-mytnytsi-kompaniji-namahayutsya-unyknuty-perevirok-dfs/",
+        "title": "АНОНС — Контрабанда на одеській митниці: компанії намагаються уникнути перевірок ДФС",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Тарасишина О.М",
+                        "position": "Суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Головне управління ДФС в Одеській області",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ТОВ 'АЛЬ МАК'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне антикорупційне бюро (НАБУ)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/03/19",
+        "link": "https://antac.org.ua/news/anons-zavtra-sud-rozhlyane-4-adminprotokola-na-nardepa-pavelka-zahalom-jih-13/",
+        "title": "АНОНС — Завтра суд розгляне 4 адмінпротокола на нардепа Павелка. Загалом їх 13",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Павелко",
+                        "position": "Народний депутат, голова бюджетного комітету Верховної Ради, президент Федерації футболу України",
+                        "affiliations": [
+                            "НАЗК"
+                        ]
+                    },
+                    {
+                        "name": "Віта Бортницька",
+                        "position": "Суддя",
+                        "affiliations": [
+                            "Печерський районний суд міста Києва"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне агентство з питань запобігання корупції (НАЗК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/03/19",
+        "link": "https://antac.org.ua/news/zayava-koruptsiya-v-oborontsi-vymahajemo-vid-kerivnyka-nabu-vidstoronyty-na-chas-rozsliduvannya-zastupnyka-ta-detektyviv/",
+        "title": "Корупція в оборонці: вимагаємо від керівника НАБУ відсторонити на час розслідування заступника та детективів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Артем Ситник",
+                        "position": "Керівник Національного антикорупційного бюро України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Гізо Углава",
+                        "position": "Перший заступник директора НАБУ",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олег Борисенко",
+                        "position": "Заступник керівника Третього відділу І підрозділу детективів Головного підрозділу детективів НАБУ",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Дмитро Литвиненко",
+                        "position": "Детектив Третього відділу І підрозділу Головного підрозділу детективів НАБУ",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "12/03/19",
+        "link": "https://antac.org.ua/news/yak-martynenko-i-ko-zaroblyaly-na-zakupivlyah-kazahskoho-uranu-sud-pochav-doslidzhuvaty-dokazy/",
+        "title": "Як Мартиненко і Ко заробляли на закупівлях казахського урану. Суд почав досліджувати докази",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Сорокін",
+                        "position": "Генеральний директор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Володимир Богданець",
+                        "position": "Екс-заступник генерального директора",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "СхідГЗК",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [
+                    "Штоєрман"
+                ],
+                "government_bodies": [
+                    "Міністерство енергетики та вугільної промисловості України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/03/19",
+        "link": "https://antac.org.ua/news/sud-pidtrymav-martynenka-ta-joho-advokativ-i-ne-povernuv-prokurora-perova-u-spravu/",
+        "title": "Суд підтримав Мартиненка та його адвокатів і не повернув прокурора Перова у справу",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Перов",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури"
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Шевченківський районний суд міста Києва",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Велика Палата Верховного суду",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "11/03/19",
+        "link": "https://antac.org.ua/news/anons-zavtra-vidbudetsya-chetverta-sproba-prokurora-perova-povernutysya-u-spravu-martynenka/",
+        "title": "АНОНС – Завтра відбудеться четверта спроба прокурора Перова повернутися  у справу Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Перов",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури"
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп"
+                    },
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "Головуюча суддя"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05/03/19",
+        "link": "https://antac.org.ua/news/u-sudi-zachytaly-dokazy-vplyvu-martynenka-u-robotu-vkks-ta-vrp/",
+        "title": "У суді зачитали докази впливу Мартиненка у роботу ВККС та ВРП",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-народний депутат",
+                        "affiliations": [
+                            "Народний фронт"
+                        ]
+                    },
+                    {
+                        "name": "Володимир Бугіль",
+                        "position": "Суддя"
+                    },
+                    {
+                        "name": "Федик Н.В",
+                        "position": "Співробітниця ПАТ «Діамантбанк»"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ПАТ «Діамантбанк»",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Вища кваліфікаційна комісія суддів (ВККС)",
+                    "Вища рада правосуддя (ВРП)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05/03/19",
+        "link": "https://antac.org.ua/news/sud-vtretje-ne-rozhlyanuv-zayavu-pro-povernennya-perova-do-spravy-martynenka/",
+        "title": "Суд втретє не розглянув заяву про повернення Перова до справи Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Перов",
+                        "position": "прокурор Спеціалізованої антикорупційної прокуратури (САП)"
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "колишній народний депутат"
+                    },
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "головуюча суддя"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура (САП)",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "04/03/19",
+        "link": "https://antac.org.ua/news/anons-sud-vkotre-rozhlyane-zayavu-pro-povernennya-prokurora-perova-do-spravy-martynenka/",
+        "title": "Анонс – Суд вкотре розгляне заяву про повернення прокурора Перова до справи Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Перов",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури"
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат"
+                    },
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "Головуюча суддя"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Шевченківський районний суд міста Києва",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "01/03/19",
+        "link": "https://antac.org.ua/news/nemozhlyvist-pokarannya-scho-proponuje-tymoshenko-za-nezakonne-zbahachennya/",
+        "title": "Неможливість покарання: що пропонує Тимошенко за незаконне збагачення",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юлія Тимошенко",
+                        "position": "Народна депутатка та кандидатка в Президенти",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/02/19",
+        "link": "https://antac.org.ua/news/zakonoproekt-poroshenka-pro-nezakonne-zbahachennya-hirshyj-nizh-pryjnyatyj-za-chasiv-yanukovycha/",
+        "title": "Законопроект Порошенка про незаконне збагачення гірший, ніж прийнятий за часів Януковича",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Президент України (2010-2014)",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/02/19",
+        "link": "https://antac.org.ua/news/anons-sud-rozhlyane-sche-4-adminprotokoliv-na-nardepa-pavelka-zahalom-jih-13/",
+        "title": "АНОНС — Суд розгляне ще 4 адмінпротоколів на нардепа Павелка. Загалом їх 13",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Павелко",
+                        "position": "Народний депутат, голова бюджетного комітету Верховної Ради, президент Федерації футболу України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне агентство з питань запобігання корупції (НАЗК)",
+                    "Печерський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/02/19",
+        "link": "https://antac.org.ua/news/holodnytskyj-vidmovyvsya-vidkryvaty-spravu-schodo-tymoshenko/",
+        "title": "Холодницький відмовився відкривати справу щодо Тимошенко",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юлія Тимошенко",
+                        "position": "Народна депутатка, кандидатка в Президенти",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура (САП)",
+                    "Генеральна прокуратура (ГПУ)",
+                    "Центр протидії корупції (ЦПК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "27/02/19",
+        "link": "https://antac.org.ua/news/nekonstytutsijnist-nezakonnoho-zbahachennya-oznachatyme-amnistiyu-dlya-vsih-posadovtsiv-hromadskist/",
+        "title": "Неконституційність “незаконного збагачення” означатиме амністію для всіх посадовців — громадськість",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Конституційний суд",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Незаконне збагачення посадовців",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Громадськість",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Топ-посадовці",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Национальне антикорупційне бюро",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "27/02/19",
+        "link": "https://antac.org.ua/news/rejestr-zlytyh-sprav-sap-popovnyvsya-dvoma-zakrytymy-provadzhennyamy/",
+        "title": "Реєстр злитих справ САП поповнився двома провадженнями",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Валерій Іщенко",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Укрзалізниця",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Агрохолдинг 'Мрія'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура",
+                    "Національне антикорупційне бюро"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/02/19",
+        "link": "https://antac.org.ua/news/hromadski-orhanizatsiji-zaklykaly-navchalni-zaklady-vysunuty-inshyh-kandydativ-do-skladu-vyschoji-rady-pravosuddya/",
+        "title": "Громадські організації закликали навчальні заклади висунути інших кандидатів до складу Вищої ради правосуддя",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [
+                    {
+                        "entity": "Автомайдан",
+                        "type": "Громадська організація"
+                    },
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Громадська організація"
+                    },
+                    {
+                        "entity": "Трансперенсі Інтернешнл-Україна",
+                        "type": "Громадська організація"
+                    },
+                    {
+                        "entity": "Фундація DEJURE",
+                        "type": "Громадська організація"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "26/02/19",
+        "link": "https://antac.org.ua/news/sud-znovu-ne-rozhlyanuv-povernennya-prokurora-perova-u-spravu-martynenka/",
+        "title": "Суд знову не розглянув повернення прокурора Перова у справу Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Перов",
+                        "position": "Прокурор САП"
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Шевченківський районний суд міста Києва",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура (САП)",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "26/02/19",
+        "link": "https://antac.org.ua/news/sud-ostatochno-vidmovyv-tspk-u-sprostuvanni-brehlyvoho-syuzhetu-ahmetivskoho-telekanalu-ukrajina/",
+        "title": "Суд остаточно відмовив ЦПК у спростуванні брехливого сюжету ахметівського телеканалу “Україна”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Рінат Ахметов",
+                        "position": "Олігарх",
+                        "affiliations": [
+                            "Телеканал \"Україна\""
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції (ЦПК)",
+                        "type": "Громадська організація"
+                    },
+                    {
+                        "entity": "Телеканал \"Україна\"",
+                        "type": "Приватна компанія"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Апеляційний господарський суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/02/19",
+        "link": "https://antac.org.ua/news/14135/",
+        "title": "АНОНС – Суд розгляне 5 із 13 адмінпротоколів на нардепа Павелка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Павелко",
+                        "position": "Народний депутат, голова бюджетного комітету Верховної Ради, президент Федерації футболу України",
+                        "affiliations": [
+                            "Верховна Рада",
+                            "Федерація футболу України"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне агентство з питань запобігання корупції (НАЗК)",
+                    "Печерський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/02/19",
+        "link": "https://antac.org.ua/news/anons-sud-sprobuje-doslidyty-cheskyj-dysk-u-spravi-martynenka/",
+        "title": "АНОНС — Суд спробує дослідити чеський диск у справі Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Петер Луптачик",
+                        "position": "Заступник комерційного директора компанії Skoda JS a.s.",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валерій Васильков",
+                        "position": "Обвинувачений",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Skoda JS a.s.",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Bradcrest Investment S.A.",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [
+                    "Bradcrest Investment S.A."
+                ],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва",
+                    "НАБУ (Національне антикорупційне бюро)",
+                    "Прокуратура Чехії"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/02/19",
+        "link": "https://antac.org.ua/news/anons-advokaty-dubnevychiv-vcherhove-namahayutsya-znyaty-aresht-z-tets-na-lvivschyni/",
+        "title": "АНОНС — Адвокати Дубневичів укотре намагаються зняти арешт з ТЕЦ на Львівщині",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ярослав Дубневич",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Богдан Дубневич",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Новояворівська ТЕЦ",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Новороздільська ТЕЦ",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/02/19",
+        "link": "https://antac.org.ua/news/holova-aparatu-antykorsudu-maje-budynok-na-odnij-zemelnij-dilyantsi-iz-kerivnytseyu-dbr/",
+        "title": "Голова апарату антикорсуду має будинок на одній земельній ділянці із керівницею ДБР",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олексій Жуков",
+                        "position": "Тимчасовий голова апарату Вищого антикорупційного суду",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ольга Варченко",
+                        "position": "Перша заступниця голови Державного бюро розслідувань",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Анастасія Красносільська",
+                        "position": "Експертка Центру протидії корупції",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Наталія Левицька",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Президент"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "21/02/19",
+        "link": "https://antac.org.ua/news/sud-vidmovyv-dubnevycham-u-znyatti-areshtu-z-novorozdilskoji-tets/",
+        "title": "Суд відмовив Дубневичам у знятті арешту з Новороздільської ТЕЦ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Вадим Сенін",
+                        "position": "Слідчий суддя",
+                        "affiliations": [
+                            "Солом’янський суд міста Києва"
+                        ]
+                    },
+                    {
+                        "name": "Ярослав Дубневич",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Богдан Дубневич",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Новороздільська ТЕЦ",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19/02/19",
+        "link": "https://antac.org.ua/news/sud-vidmovyvsya-rozhlyadaty-povernennya-prokurora-perova-do-spravy-martynenka/",
+        "title": "Суд відмовився розглядати повернення прокурора Перова до справи Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "Суддя",
+                        "affiliations": [
+                            "Шевченківський суд міста Києва"
+                        ]
+                    },
+                    {
+                        "name": "Володимир Бугіль",
+                        "position": "Суддя",
+                        "affiliations": [
+                            "Шевченківський суд міста Києва"
+                        ]
+                    },
+                    {
+                        "name": "Олена Мєлєшак",
+                        "position": "Суддя",
+                        "affiliations": [
+                            "Шевченківський суд міста Києва"
+                        ]
+                    },
+                    {
+                        "name": "Андрій Перов",
+                        "position": "Прокурор",
+                        "affiliations": [
+                            "Спеціалізована антикорупційна прокуратура (САП)"
+                        ]
+                    },
+                    {
+                        "name": "Олексій Скибенко",
+                        "position": "Прокурор",
+                        "affiliations": [
+                            "САП"
+                        ]
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній нардеп"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Шевченківський суд міста Києва",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура (САП)",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Велика палата Верховного суду",
+                    "Кваліфікаційно-дисциплінарна комісія прокурорів"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19/02/19",
+        "link": "https://antac.org.ua/news/na-kyjivschyni-hotily-viddaty-12-mln-hrn-na-plavannya-ditej-z-delfinamy/",
+        "title": "На Київщині хотіли віддати 12 млн грн на плавання дітей з дельфінами",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Уляна Супрун",
+                        "position": "виконувачка обов’язків міністра охорони здоров’я"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Департамент соцполітики Київської міськради",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "19/02/19",
+        "link": "https://antac.org.ua/news/okruzhnyj-adminsud-mozhe-povernuty-v-konkurs-do-vyschoho-antykoruptsijnoho-sudu-sumnivnyh-kandydativ/",
+        "title": "Окружний адмінсуд може повернути в конкурс до Вищого антикорупційного суду сумнівних кандидатів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Тарас Заєць",
+                        "position": "Кандидат до Вищого антикорупційного суду",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Окружний адміністративний суд Києва",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Громадська рада міжнародних експертів (ГРМЕ)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/02/19",
+        "link": "https://antac.org.ua/news/anons-19-lyutoho-vidbudetsya-konkurs-na-holovu-derzhliksluzhby/",
+        "title": "АНОНС — 19 лютого відбудеться конкурс на голову Держлікслужби. ЦПК поставив свої запитання до кандидатів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Роман Ісаєнко",
+                        "position": "Виконувач обов'язків Голови Держлікслужби",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Костянтин Сич",
+                        "position": "Заступник директора з розвитку бізнесу за кордоном ТОВ «Долфі-Україна»",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Державна служба України з лікарських засобів та контролю за наркотиками",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ТОВ «Долфі-Україна»",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Національна агентство України з питань державної служби"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/02/19",
+        "link": "https://antac.org.ua/news/nazk-viddyachylo-holodnytskomu-za-zlyttya-kryminalnoji-spravy-nataliji-korchak/",
+        "title": "НАЗК “віддячило” Холодницькому  за злиття кримінальної справи Наталії Корчак",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Холодницький",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Про",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне агентство з питань запобігання корупції (НАЗК)",
+                    "Центр протидії корупції (ЦПК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/02/19",
+        "link": "https://antac.org.ua/news/anons-sud-zavershyt-vyvchaty-tendernu-dokumentatsiyu-u-spravi-martynenka/",
+        "title": "АНОНС — Суд завершить вивчати тендерну документацію у справі Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "НАЕК “Енергоатом”",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Skoda JS a.s",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський суд Києва",
+                    "САП"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/02/19",
+        "link": "https://antac.org.ua/news/anons-sprava-shabunina-tsoho-tyzhnya-sud-dopytaje-svidkiv-storony-zahystu/",
+        "title": "АНОНС — Справа Шабуніна: цього тижня суд допитає свідків сторони захисту",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова правління Центру протидії корупції",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "журналіст",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "провокатор",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "відео-блогер",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Дніпровський районний суд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/02/19",
+        "link": "https://antac.org.ua/news/sud-naklav-aresht-na-300-tys-dolariv-pryhovanyh-nasirovym/",
+        "title": "Суд наклав арешт на 300 тис. доларів, прихованих Насіровим",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Роман Насіров",
+                        "position": "Екс-голова ДФС",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Володимир Новіков",
+                        "position": "Директор департаменту погашення боргу ДФС",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Перов",
+                        "position": "Прокурор САП",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ДФС (Державна фіскальна служба)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Банк Великої Британії",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва",
+                    "НАБУ (Національне антикорупційне бюро України)",
+                    "КПК (Кримінальний процесуальний кодекс України)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/02/19",
+        "link": "https://antac.org.ua/news/tspk-vymahaje-vid-lutsenka-vidkryty-kryminalne-provadzhennya-schodo-mozhlyvoho-nezakonnoho-zbahachennya-tymoshenko/",
+        "title": "ЦПК вимагає від Луценка відкрити кримінальне провадження щодо можливого незаконного збагачення Тимошенко",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юрій Луценко",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Юлія Тимошенко",
+                        "position": "Народна депутатка та кандидатка у Президенти",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Центр протидії корупції",
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/02/19",
+        "link": "https://antac.org.ua/news/anons-sap-prosytyme-sud-areshtuvaty-pryhovani-300-tys-dolariv-nasirova/",
+        "title": "Анонс — САП проситиме суд арештувати приховані 300 тис. доларів Насірова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Роман Насіров",
+                        "position": "Екс-голова Державної фіскальної служби",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Перов",
+                        "position": "Прокурор САП",
+                        "affiliations": [
+                            "Спеціалізована антикорупційна прокуратура"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Interactive Brokers Королівства Великої Британії та Північної Ірландії",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський суд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/02/19",
+        "link": "https://antac.org.ua/news/postanovu-mosijchuka-schodo-suprun-hotuvaly-na-komp-yuteri-nardepa-opobloku-iz-hrupy-ahmetova/",
+        "title": "Пояснювальну записку до проекту Мосійчука щодо Супрун готували на комп’ютері нардепа Опоблоку із групи Ахметова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ігор Мосійчук",
+                        "position": "нардеп",
+                        "affiliations": [
+                            "Радикальна партія Ляшка"
+                        ]
+                    },
+                    {
+                        "name": "Уляна Супрун",
+                        "position": "міністр"
+                    },
+                    {
+                        "name": "Олександр Долженков",
+                        "position": "народний депутат",
+                        "affiliations": [
+                            "Опозиційний блок"
+                        ]
+                    },
+                    {
+                        "name": "Ренат Ахметов",
+                        "position": "олігарх"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "12/02/19",
+        "link": "https://antac.org.ua/news/sud-vyznachyv-novyj-poryadok-rozhlyadu-spravy-proty-pravoji-ruky-eks-nardepa-martynenka/",
+        "title": "Суд змінив порядок розгляду справи проти правої руки екс-нардепа Мартиненка Руслана Журила",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Руслан Журило",
+                        "position": "Юрист ОГХК",
+                        "affiliations": [
+                            "ПАТ Об'єднана гірничо-хімічна компанія"
+                        ]
+                    },
+                    {
+                        "name": "Костянтин Сухих",
+                        "position": "Начальник юридичного відділу ОГХК",
+                        "affiliations": [
+                            "ПАТ Об'єднана гірничо-хімічна компанія"
+                        ]
+                    },
+                    {
+                        "name": "Тарас Щербай",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури",
+                        "affiliations": [
+                            "Спеціалізована антикорупційна прокуратура"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ПАТ Об'єднана гірничо-хімічна компанія",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Bollwerk",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "12/02/19",
+        "link": "https://antac.org.ua/news/sud-vyvchav-proslushku-truhanova-i-spilnykiv-u-zakrytomu-rezhymi/",
+        "title": "Суд вивчив “прослушку” Труханова і спільників у закритому режимі",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Труханов",
+                        "position": "Міський голова Одеси",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Петро Загодіренко",
+                        "position": "Директор ТОВ Девелопмент Еліт",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ТОВ Девелопмент Еліт",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Малиновський суд Одеси"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/02/19",
+        "link": "https://antac.org.ua/news/martynenko-spryyav-rosijskij-kompaniji-skoda-js-u-vyhrashah-tenderiv-v-ukrajini-za-dopomohoyu-pidstavnyh-konkurentiv/",
+        "title": "Мартиненко сприяв російській компанії Skoda JS у виграшах тендерів в Україні за допомогою підставних конкурентів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Skoda JS a.s.",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "НАЕК “Енергоатом”",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08/02/19",
+        "link": "https://antac.org.ua/news/sud-pokarav-chynovnytsyu-antymonopolnoho-komitetu-za-vykonannya-zakonu/",
+        "title": "Суд покарав чиновницю Антимонопольного комітету за виконання закону",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Агія Загребельська",
+                        "position": "Державна уповноважена Антимонопольного комітету України",
+                        "affiliations": [
+                            "Антимонопольний комітет України"
+                        ]
+                    },
+                    {
+                        "name": "Сергій Агафонов",
+                        "position": "Суддя Солом'янського районного суду"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "НАЗК (Національне агентство з питань запобігання корупції)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08/02/19",
+        "link": "https://antac.org.ua/news/akt-pro-perevirku-v-ekspertky-u-spravi-ryukzakiv-avakova-bude-skladenyj-pislya-porad-iz-min-yustom/",
+        "title": "Акт про перевірку в експертки у справі рюкзаків Авакова буде складений після порад із Мін’юстом",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Надія Бугрова",
+                        "position": "Експертка",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство юстиції",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "07/02/19",
+        "link": "https://antac.org.ua/news/dvoje-iz-troh-top-kandydativ-u-prezydenty-pidtrymaly-antykoruptsijnyj-poryadok-dennyj/",
+        "title": "Двоє із трьох топ-кандидатів у Президенти підтримали антикорупційний порядок денний",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юлія Тимошенко",
+                        "position": "Кандидат у Президенти",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Володимир Зеленський",
+                        "position": "Кандидат у Президенти",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Кандидат у Президенти",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Холодницький",
+                        "position": "Невідомо",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "СБУ (Служба безпеки України)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "07/02/19",
+        "link": "https://antac.org.ua/news/anons-sud-hoche-obmezhyty-nabu-v-rozsliduvanni-spravy-rotterdam/",
+        "title": "Анонс – НКРЕКП просить суд обмежити НАБУ в розслідуванні справи “Роттердам+”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Вадим Сенін",
+                        "position": "Головуючий суддя",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ірина Одинець",
+                        "position": "Адвокат",
+                        "affiliations": [
+                            "НКРЕКП"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "06/02/19",
+        "link": "https://antac.org.ua/news/u-deputata-vid-lyashka-pid-chas-obshukiv-znajshly-proekt-rishennya-nazk-pro-rezultaty-perevirky-joho-zh-deklaratsiji/",
+        "title": "У депутата від Ляшка під час обшуків знайшли проект рішення НАЗК про результати перевірки його ж декларації",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Скуратовський",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Радикальна партія Олега Ляшка"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції (ЦПК)Pep.org.ua",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура (САП)",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне агентство з питань запобігання корупції (НАЗК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05/02/19",
+        "link": "https://antac.org.ua/news/pres-reliz-nardep-iz-partiji-lyashka-protyahom-dvoh-rokiv-ne-deklaruvav-maltijsku-kompaniyu-a-potim-perepysav-jiji-na-pomichnytsyu/",
+        "title": "Нардеп із партії Ляшка протягом двох років не декларував мальтійську компанію, яку згодом переписав на помічницю",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Скуратовський",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Радикальна партія Олега Ляшка"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Bogena Ltd",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [
+                    "Bogena Ltd"
+                ],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "05/02/19",
+        "link": "https://antac.org.ua/news/anons-zakupivli-dlya-armiji-za-odyn-den-i-za-bezmezhni-tsiny-parlamentskyj-komitet-rozhlyane-zakonoproekt-prezydenta/",
+        "title": "АНОНС — Закупівлі для армії за один день і за безмежні ціни: парламентський комітет розгляне законопроект Президента",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Іванчук",
+                        "position": "Голова парламентського комітету з економічної політики"
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Антикорупційний комітет"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "04/02/19",
+        "link": "https://antac.org.ua/news/u-martynenka-pidtverdyly-dostovirnist-dokumentu-scho-vin-je-vlasnykom-panamskoho-ofshoru/",
+        "title": "У Мартиненка підтвердили достовірність документу про те, що він є власником панамського офшору",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ганс-Петер Шаад",
+                        "position": "Адвокат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Скибенко",
+                        "position": "Прокурор САП",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Енергоатом",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [
+                    "Bradcrest Investment"
+                ],
+                "government_bodies": [
+                    "САП"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "01/02/19",
+        "link": "https://antac.org.ua/news/anons-sud-prodovzhyt-vyvchaty-tendernu-dokumentatsiyu-u-spravi-martynenka/",
+        "title": "АНОНС – Суд продовжить вивчати тендерну документацію у справі Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "НАЕК 'Енергоатом'",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/01/19",
+        "link": "https://antac.org.ua/news/amerykanski-lobisty-tymoshenko-tspk-vymahaje-vidkryty-kryminalnu-spravu-proty-deputatky/",
+        "title": "Американські лобісти Тимошенко: ЦПК вимагає відкрити кримінальну справу проти депутатки",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юлія Тимошенко",
+                        "position": "Народна депутатка, кандидатка у Президенти",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    },
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура (САП)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Національне антикорупційне бюро України (НАБУ)",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "28/01/19",
+        "link": "https://antac.org.ua/news/pidstavnu-osobu-dlya-ofshorky-martynenka-zaluchaly-za-250-dolariv-na-rik/",
+        "title": "Підставну особу для офшорки Мартиненка залучали за 250 доларів на рік",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Джон Фостер",
+                        "position": "Громадянин Панами",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олексій Скибенко",
+                        "position": "Прокурор САП",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Bradcrest Investment S.A.",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [
+                    "Bradcrest Investment S.A."
+                ],
+                "government_bodies": [
+                    "САП"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/01/19",
+        "link": "https://antac.org.ua/news/u-konkursi-do-antykorsudu-zalyshylos-71-kandydativ-mizhnarodni-eksperty-zavershyly-svoyu-robotu/",
+        "title": "ІНФОГРАФІКА — У конкурсі до антикорсуду залишився 71 кандидат. Міжнародні експерти завершили свою роботу",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Міжнародні експерти",
+                        "position": "Учасники Громадської ради міжнародних експертів",
+                        "affiliations": [
+                            "Громадська рада міжнародних експертів"
+                        ]
+                    },
+                    {
+                        "name": "Вища кваліфікаційна комісія суддів",
+                        "position": "Учасники спільних засідань із міжнародними експертами",
+                        "affiliations": [
+                            "Вища кваліфікаційна комісія суддів"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "28/01/19",
+        "link": "https://antac.org.ua/news/lutsenko-premiyuvav-holodnytskoho-na-pivmiljona-hrn-nezvazhayuchy-na-dohanu/",
+        "title": "Луценко преміював Холодницького на півмільйона грн, незважаючи на догану",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Назар Холодницький",
+                        "position": "Керівник Спеціалізованої антикорупційної прокуратури",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура",
+                    "Центр протидії корупції",
+                    "Кваліфікаційно-дисциплінарна комісія прокурорів"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/01/19",
+        "link": "https://antac.org.ua/news/pres-reliz-sud-vidmovyvsya-vyvchaty-dokazy-pro-merezhu-fiktyvnyh-kompanij-martynenka/",
+        "title": "Суд відмовився вивчати докази про мережу фіктивних компаній Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ігор Керезя",
+                        "position": "Бізнес-партнер екс-нардепа Миколи Мартиненка",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп від Народного Фронту",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олена Щербан",
+                        "position": "Юристка Центру протидії корупції",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд Києва",
+                    "Прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/01/19",
+        "link": "https://antac.org.ua/news/anons-sprava-truhanova-z-ponedilka-sud-perejde-do-doslidzhennya-druhoji-polovyny-dokaziv/",
+        "title": "АНОНС — Справа Труханова: З понеділка суд перейде до дослідження другої половини доказів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Труханов",
+                        "position": "Мер Одеси",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Сергій Черевко",
+                        "position": "Головуючий суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Одеська міськрада",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Компанія, яка купила розвалини заводу Краян",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "24/01/19",
+        "link": "https://antac.org.ua/news/rozvalyny-zavodu-dlya-odesy-dokazy-kryminalnoji-spravy-truhanova/",
+        "title": "Розвалини заводу для Одеси. Докази кримінальної справи Труханова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Труханов",
+                        "position": "Мер Одеси",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Малиновський районний суд",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Одеська міськрада",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Краян (завод)",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "24/01/19",
+        "link": "https://antac.org.ua/news/anons-sud-doslidyt-fleshku-biznes-partnera-martynenka/",
+        "title": "АНОНС — Суд дослідить флешку бізнес-партнера Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ігор Керезя",
+                        "position": "Бізнес-партнер Мартиненка",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Давид Жванія",
+                        "position": "",
+                        "affiliations": [
+                            "спільне бізнесом з Мартиненком"
+                        ]
+                    },
+                    {
+                        "name": "Олексій Скибенко",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ПАТ 'Діамантбанк'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва",
+                    "Спеціалізована антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "23/01/19",
+        "link": "https://antac.org.ua/news/z-konkursu-v-antykorsud-vyklyuchyly-vzhe-32-zi-49-sumnivnyh-kandydativ/",
+        "title": "З конкурсу в Антикорсуд виключили вже 32 зі 49 сумнівних кандидатів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юрій Бурбела",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Роман Головатий",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Діана Заніна",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Івасин",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Анна Надточієва",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Сингаївський",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ігор Січеславський",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Юрій Юркевич",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Вікторія Жовноватюк",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Вища кваліфікаційна комісія суддів",
+                    "Вищий антикорупційний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/01/19",
+        "link": "https://antac.org.ua/news/sche-5-kandydativ-zalyshylysya-poza-konkursom-v-antykorsud/",
+        "title": "Ще 5 кандидатів залишилися поза конкурсом в Антикорсуд",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Василь Гончарук",
+                        "position": "Кандидат до Вищого антикорупційного суду",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ігор Кос",
+                        "position": "Кандидат до Вищого антикорупційного суду",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Малєєв",
+                        "position": "Кандидат до Вищого антикорупційного суду",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Василь Постульгут",
+                        "position": "Кандидат до Вищого антикорупційного суду",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валерій Станіславський",
+                        "position": "Кандидат до Вищого антикорупційного суду",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Вища кваліфікаційна комісія суддів"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/01/19",
+        "link": "https://antac.org.ua/news/sprava-nardepa-dzenzerskoho-popovnyla-spysok-zlytyh-sprav-sap/",
+        "title": "Справа нардепа Дзензерського поповнила список злитих справ САП",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Денис Дзензерський",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Народний фронт"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Група компаній «Веста»",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "ВТБ Банк",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Банк Кредит Дніпро",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "21/01/19",
+        "link": "https://antac.org.ua/news/rodyny-herojiv-nebesnoji-sotni-podyakuvaly-mizhnarodnym-ekspertam-za-vykynutyh-iz-konkursu-do-antykorsudu-suddiv-majdanu/",
+        "title": "Родини Героїв небесної сотні подякували міжнародним експертам за викинутих із конкурсу до Антикорсуду суддів Майдану",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Родина Героїв Небесної Сотні",
+                        "position": "Громадська організація"
+                    },
+                    {
+                        "name": "Громадська рада міжнародних експертів",
+                        "position": "Громадська рада"
+                    },
+                    {
+                        "name": "судді Майдану",
+                        "position": "Судді",
+                        "affiliations": [
+                            "Адміністрація Януковича"
+                        ]
+                    },
+                    {
+                        "name": "Вища кваліфікаційна комісія",
+                        "position": "Комісія"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "21/01/19",
+        "link": "https://antac.org.ua/news/privet-papik-martynenko-za-vidkaty-platyv-za-navchannya-donky-u-londoni/",
+        "title": "“Privet papik”. Мартиненко за відкати платив за навчання доньки у Лондоні",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олексій Скибенко",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури"
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Компанія Bradcrest",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Держпідприємство Енергоатом",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18/01/19",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-sud-prodovzhyt-vyvchaty-dokazy-na-fleshtsi-zi-shvejtsariji-2/",
+        "title": "АНОНС — Справа Мартиненка: суд продовжить вивчати докази на флешці зі Швейцарії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ (Національне антикорупційне бюро України)",
+                    "Прокуратура Швейцарії"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/01/19",
+        "link": "https://antac.org.ua/news/sprava-ohhk-na-300-miljoniv-prokurory-dopytaly-zastupnyka-zhuryla/",
+        "title": "Справа ОГХК на 300 мільйонів: прокурори допитали заступника Журила",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Руслан Журило",
+                        "position": "Голова правління ПАТ 'Об’єднана гірничо-хімічна компанія'"
+                    },
+                    {
+                        "name": "Юрій Перцев",
+                        "position": "Екс-працівник ОГХК"
+                    },
+                    {
+                        "name": "Олександр Гладушко",
+                        "position": "В.о. голови правління ОГХК, заступник відстороненого Журила"
+                    },
+                    {
+                        "name": "Василь Кричун",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури"
+                    },
+                    {
+                        "name": "Тарас Щербай",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ПАТ 'Об’єднана гірничо-хімічна компанія'",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Bollwerk Finanz- und Industriemanagement AG",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Adelis Trade LLP",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський районний суд міста Києва",
+                    "Прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/01/19",
+        "link": "https://antac.org.ua/news/prokurory-holodnytskoho-nezakonno-peredaly-v-politsiyu-spravu-pro-rozkradannya-300-mln-opoblokivtsyamy-na-zelenomu-taryfi/",
+        "title": "Прокурори Холодницького незаконно передали в поліцію справу про розкрадання 300 млн “опоблоківцями”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Назар Холодницький",
+                        "position": "Керівник Спеціалізованої антикорупційної прокуратури"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Національна поліція",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "НАБУ (Національне антикорупційне бюро)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Держпідприємство 'Енергоринок'",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "16/01/19",
+        "link": "https://antac.org.ua/news/anons-zavtra-vidbudetsya-pershe-zasidannya-u-spravi-nazk-proty-kerivnytsi-antymonopolnoho-komitetu/",
+        "title": "АНОНС — Завтра відбудеться перше судове засідання у справі НАЗК проти керівниці Антимонопольного комітету",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Агія Загребельська",
+                        "position": "Державна уповноважена Антимонопольного комітету України",
+                        "affiliations": [
+                            "Антимонопольний комітет України"
+                        ]
+                    },
+                    {
+                        "name": "Серій Агафонов",
+                        "position": "Головуючий суддя"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський районний суд міста Києва",
+                    "Національне агентство з питань запобігання корупції (НАЗК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "16/01/19",
+        "link": "https://antac.org.ua/news/anons-sprava-ohhk-sud-dopytaje-pershoho-zastupnyka-zhuryla/",
+        "title": "АНОНС — Справа ОГХК: суд допитає першого заступника Журила",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Руслан Журило",
+                        "position": "Відсторонений виконавчий обов'язки голови правління",
+                        "affiliations": [
+                            "ПАТ Об'єднана гірничо-хімічна компанія"
+                        ]
+                    },
+                    {
+                        "name": "Юрій Перцев",
+                        "position": "Екс-заступник з комерційних питань",
+                        "affiliations": [
+                            "ПАТ Об'єднана гірничо-хімічна компанія"
+                        ]
+                    },
+                    {
+                        "name": "Олександр Гладушко",
+                        "position": "Перший заступник в.о голови правління",
+                        "affiliations": [
+                            "ПАТ Об'єднана гірничо-хімічна компанія"
+                        ]
+                    },
+                    {
+                        "name": "Олексій Мороховець",
+                        "position": "Начальник відділу продажів і маркетингу",
+                        "affiliations": [
+                            "ПАТ Об'єднана гірничо-хімічна компанія"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ПАТ Об'єднана гірничо-хімічна компанія",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "15/01/19",
+        "link": "https://antac.org.ua/news/sap-prohrala-apelyatsiyu-u-spravi-ohendovskoho/",
+        "title": "САП програла апеляцію у справі Охендовського",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Михайло Охендовський",
+                        "position": "Екс-голова ЦВК",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Печерський районний суд міста Києва",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Київський апеляційний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/01/19",
+        "link": "https://antac.org.ua/news/sprava-martynenka-u-sudi-prodovzhyly-doslidzhuvaty-dokazy-zi-shvejtsarskoji-fleshky/",
+        "title": "Справа Мартиненка: У суді продовжили досліджувати докази зі швейцарської флешки",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Прокурор САП Скибенко",
+                        "position": "Прокурор",
+                        "affiliations": [
+                            "САП"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/01/19",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-sud-prodovzhyt-vyvchaty-dokazy-na-fleshtsi-zi-shvejtsariji/",
+        "title": "АНОНС — Справа Мартиненка: суд продовжить вивчати докази на флешці зі Швейцарії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Лідія Щебуняєва",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ (Національне антикорупційне бюро України)",
+                    "Прокуратура Швейцарії"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/01/19",
+        "link": "https://antac.org.ua/news/vidkaty-za-tendery-v-ukrajini-sud-pochav-doslidzhuvaty-shvejtsarsku-fleshku-u-spravi-martynenka/",
+        "title": "Відкати за тендери в Україні: суд почав досліджувати швейцарську флешку у справі Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Секретар судового засідання",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Прокурор САП Скибенко",
+                        "position": "Прокурор",
+                        "affiliations": [
+                            "САП"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Компанія Bradcrest",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Чеська компанія Skoda JS",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/01/19",
+        "link": "https://antac.org.ua/news/mizhnarodni-eksperty-vetuvaly-vzhe-32-kandydativ-do-antykorsudu/",
+        "title": "Міжнародні експерти ветували вже 32 кандидатів до антикорсуду",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Маркіян Галабала",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Юрій Бурбела",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ігор Січеславський",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валерія Чорна",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Малєєв",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Василь Постульга",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Сергій Боднар",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валерій Станіславський",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ігор Кос",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Діана Заніні",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Василь Гончарук",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ольга Саландяк",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Вища кваліфікаційна комісія суддів"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/01/19",
+        "link": "https://antac.org.ua/news/na-prokurora-u-spravi-rotterdam-yaka-zasvitylasya-na-forumi-tymoshenko-vidkryly-dystsyplinarne-provadzhennya/",
+        "title": "На прокурора у справі Роттердам+, яка засвітилася на форумі Тимошенко, відкрили дисциплінарне провадження",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ольга Ярова",
+                        "position": "Прокурор Спеціалізованої антикорупційної прокуратури",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Юлія Тимошенко",
+                        "position": "Лідер партії 'Батьківщина'",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Сергій Нечепоренко",
+                        "position": "Член Кваліфікаційно-дисциплінарної комісії прокурорів",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "09/01/19",
+        "link": "https://antac.org.ua/news/mizhnarodnyky-initsiyuvaly-vetuvannya-sche-12-kandydativ-do-antykorsudu/",
+        "title": "Міжнародники ініціювали ветування ще 12 кандидатів до антикорсуду",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "message": "No corruption-related data found."
+            }
+        ]
+    },
+    {
+        "date": "09/01/19",
+        "link": "https://antac.org.ua/news/polovyna-kandydativ-v-antykorsud-je-sumnivnymy-vysnovok-hromadskosti/",
+        "title": "Половина кандидатів в Антикорсуд є сумнівними — висновок громадськості",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Центр протидії корупції",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Фундація DEJURE",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Автомайдан",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Трансперенсі Інтернешнл Україна",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Вищий антикорупційний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/01/19",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-sud-rozhlyadatyme-dopustymist-fleshky-zi-shvejtsariji-iz-zalizobetonnymy-dokazamy/",
+        "title": "АНОНС — Справа Мартиненка: Суд розглядатиме допустимість флешки зі Швейцарії із залізобетонними доказами",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Щебуняєва Л.Л",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ (Національне антикорупційне бюро)",
+                    "Прокуратура Швейцарії"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08/01/19",
+        "link": "https://antac.org.ua/news/anons-hromadskist-prezentuje-spysok-kandydativ-nehidnyh-antykorsudu/",
+        "title": "АНОНС — Громадськість презентує список кандидатів, негідних антикорсуду",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Центр протидії корупції",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Фундація DEJURE",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Автомайдан",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Трансперенсі Інтернешнл Україна",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "28/12/18",
+        "link": "https://antac.org.ua/news/skandalna-fleshka-martynenko-vkotre-namahajetsya-vykynuty-zi-spravy-dokazy-iz-shvejtsariji/",
+        "title": "Скандальна флешка: Мартиненко вкотре намагається викинути зі справи докази із Швейцарії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "САП"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/12/18",
+        "link": "https://antac.org.ua/news/67-tomiv-ta-109-svidkiv-sud-vyrishyv-yak-doslidzhuvatymut-dokazy-u-spravi-truhanova/",
+        "title": "67 томів та 109 свідків. Суд вирішив як досліджуватимуть докази у справі Труханова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Труханов",
+                        "position": "Мер Одеси",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Валентин Мусіяка",
+                        "position": "Прокурор САП",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Максим Кравченко",
+                        "position": "Прокурор САП",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура (САП)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "27/12/18",
+        "link": "https://antac.org.ua/news/ne-zhurnalist-a-provokator-chumak-ta-ljemjenov-daly-svidchennya-u-spravi-proty-shabunina/",
+        "title": "Не журналіст, а провокатор: Чумак та Лємєнов дали свідчення у справі проти Шабуніна",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова Центру протидії корупції",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Чумак",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Всеволод Філімоненко",
+                        "position": "Псевдожурналіст",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Лємєнов",
+                        "position": "Активіст",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "27/12/18",
+        "link": "https://antac.org.ua/news/anons-zavtra-vidbudetsya-ostannje-zasidannya-u-2018-rotsi-u-spravi-martynenka/",
+        "title": "АНОНС — Завтра відбудеться останнє у 2018 році засідання у справі Мартиненка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Щебуняєва Л.Л",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Скибенко",
+                        "position": "Прокурор",
+                        "affiliations": [
+                            "САП"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ",
+                    "САП"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/12/18",
+        "link": "https://antac.org.ua/news/anons-sprava-truhanova-sud-pochne-rozhlyadaty-dokazy/",
+        "title": "АНОНС — Справа Труханова: Суд почне розглядати докази",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Труханов",
+                        "position": "Мер Одеси",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Сергій Черевко",
+                        "position": "Головуючий суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Малиновський районний суд Одеси"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "21/12/18",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-sud-rozhlyadatyme-fleshku-iz-dokazamy-vid-shvejtsariji/",
+        "title": "АНОНС — Справа Мартиненка: Суд розглядатиме флешку із доказами від Швейцарії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Щебуняєва Л.Л",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ",
+                    "Прокуратура Швейцарії"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19/12/18",
+        "link": "https://antac.org.ua/news/sud-skasuvav-postanovu-sap-pro-zakryttya-spravy-nardepa-dzenzerskoho/",
+        "title": "Суд скасував постанову САП про закриття справи нардепа Дзензерського",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Денис Дзензерський",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Народний фронт"
+                        ]
+                    },
+                    {
+                        "name": "Валентин Мусіяка",
+                        "position": "Прокурор САП"
+                    },
+                    {
+                        "name": "Назар Холодницький",
+                        "position": "Керівник САП"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "АТ ВТБ банк",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Київський апеляційний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/12/18",
+        "link": "https://antac.org.ua/news/popry-14-razove-porushennya-zapobizhnoho-zahodu-apelyatsijnyj-sud-ne-areshtuvav-pidozryuvanoho-u-spravi-proektu-stina/",
+        "title": "Попри 14-разове порушення запобіжного заходу Апеляційний суд не арештував підозрюваного у справі проекту “Стіна”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Прокурор САП",
+                        "position": "",
+                        "affiliations": [
+                            "Спеціалізована антикорупційна прокуратура"
+                        ]
+                    },
+                    {
+                        "name": "Володимир Цалко",
+                        "position": "Головний інженер відділу капітального будівництва",
+                        "affiliations": [
+                            "Північне регіональне управління Державної прикордонної служби України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Північне регіональне управління Державної прикордонної служби України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом'янський суд",
+                    "Київський апеляційний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/12/18",
+        "link": "https://antac.org.ua/news/verhovnyj-sud-uzakonyv-zakryttya-deklaratsij-vijskovyh-prokuroriv-tspk-jde-v-espl/",
+        "title": "Верховний суд узаконив закриття декларацій військових прокурорів. ЦПК йде в ЄСПЛ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Анатолій Матіос",
+                        "position": "Головний військовий прокурор",
+                        "affiliations": [
+                            "Військова прокуратура"
+                        ]
+                    },
+                    {
+                        "name": "Білоус Олександр Володимирович",
+                        "position": "Суддя",
+                        "affiliations": [
+                            "Верховний суд"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/12/18",
+        "link": "https://antac.org.ua/news/anons-sud-mozhe-areshtuvaty-pidozryuvanoho-u-spravi-proektu-stina/",
+        "title": "АНОНС — Суд може арештувати підозрюваного у справі проекту “Стіна”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Прокурори САП",
+                        "position": "Прокурори",
+                        "affiliations": [
+                            "САП"
+                        ]
+                    },
+                    {
+                        "name": "Глиняний В.П",
+                        "position": "Головуючий суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Київський апеляційний суд",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Солом’янський суд",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "14/12/18",
+        "link": "https://antac.org.ua/news/prokurora-perova-vidvely-zi-sprav-spilnykiv-martynenka-za-hryuk-dveryma/",
+        "title": "Прокурора Перова відвели зі справи спільників Мартиненка за грюк дверима",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Перов",
+                        "position": "Прокурор САП",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Спільник",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Павло Скаленко",
+                        "position": "Спільник",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Володимир Святненко",
+                        "position": "Спільник",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ірина Антипова",
+                        "position": "Суддя",
+                        "affiliations": [
+                            "Солом’янський районний суд міста Києва"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Кваліфікаційно-дисциплінарна комісія прокурорів"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/12/18",
+        "link": "https://antac.org.ua/news/pryznachena-poroshenkom-derzhohorona-holodnytskoho-je-nezakonnoyu-rahunkova-palata/",
+        "title": "Призначена Порошенком держохорона Холодницького є незаконною — Рахункова палата",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Назар Холодницький",
+                        "position": "Керівник САП",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Чумак",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова Центру протидії корупції",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Управління державної охорони (УДО)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "САП (Спеціалізована антикорупційна прокуратура)",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "11/12/18",
+        "link": "https://antac.org.ua/news/anons-zavtra-suddya-senin-vyrishyt-chy-znimaty-aresht-z-novorozdilskoji-tets-dubnevychiv/",
+        "title": "АНОНС — Завтра суддя Сенін вирішить, чи знімати арешт з Новороздільської ТЕЦ Дубневичів. Оновлено",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ярослав Дубневич",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    },
+                    {
+                        "name": "Богдан Дубневич",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    },
+                    {
+                        "name": "Сеніна Клопотання",
+                        "position": "Суддя"
+                    },
+                    {
+                        "name": "Ігор Гарванко",
+                        "position": "Прокурор САП"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Новороздільська ТЕЦ",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "АРМА",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ТОВ Новороздільська ТЕЦ",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/12/18",
+        "link": "https://antac.org.ua/news/sud-vynis-finalne-rishennya-za-pozovom-martynenka-proty-tspk/",
+        "title": "Суд виніс фінальне рішення за позовом Мартиненка проти ЦПК",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "екс-нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Дар’я Каленюк",
+                        "position": "виконавча директорка",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Печерський суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "07/12/18",
+        "link": "https://antac.org.ua/news/chy-dopustyt-sud-do-spravy-nevyhidnu-dlya-martynenka-fleshku-z-dokazamy-vid-shvejtsariji/",
+        "title": "Чи допустить суд до справи невигідну для Мартиненка флешку з доказами від Швейцарії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "екс-нардеп",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "НАБУ",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "НАЕК 'Енергоатом'",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Skoda JS",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Bradcrest Investment",
+                        "type": "Офшорна"
+                    }
+                ],
+                "offshore": [
+                    "Bradcrest Investment"
+                ],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "07/12/18",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-sud-vyrishuvatyme-chy-dopuskaty-fleshku-iz-dokazamy-vid-shvejtsariji/",
+        "title": "АНОНС — Справа Мартиненка: Суд вирішуватиме, чи допускати флешку із доказами від Швейцарії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній нардеп",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Шевченківський районний суд міста Києва",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ",
+                    "Прокуратура Швейцарії"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "07/12/18",
+        "link": "https://antac.org.ua/news/vy-ne-pozbudetesya-koruptsiji-yakscho-borotba-z-neyu-ne-stane-jedynoyu-dlya-vsoho-suspilstva-normoyu-profesor-fukuyama/",
+        "title": "Професор Фукуяма: Не можна мати сучасне суспільство, якщо у вас корумпована влада",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Френсіс Фукуяма",
+                        "position": "Філософ, політолог, професор",
+                        "affiliations": [
+                            "Стенфордський університет"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Центр протидії корупції"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "07/12/18",
+        "link": "https://antac.org.ua/news/anons-martynenko-proty-tspk-sud-mozhe-vynesty-finalne-rishennya-u-spravi/",
+        "title": "АНОНС — Мартиненко проти ЦПК: Суд може винести фінальне рішення у справі",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-народний депутат від Народного Фронту",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Печерський суд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "07/12/18",
+        "link": "https://antac.org.ua/news/anons-advokaty-dubnevychiv-znovu-namahayutsya-znyaty-aresht-z-odnijeji-iz-tets/",
+        "title": "Суд відмовив адвокатам Дубневичів у знятті арешту з однієї із ТЕЦ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ярослав Дубневич",
+                        "position": "Нардеп від БПП",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    },
+                    {
+                        "name": "Богдан Дубневич",
+                        "position": "Нардеп від БПП",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Новояворівська ТЕЦ",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський суд Києва",
+                    "НАБУ",
+                    "САП"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05/12/18",
+        "link": "https://antac.org.ua/news/anons-sohodni-maje-vidbutysya-zasidannya-u-spravi-odioznoho-harkivskoho-suddi-lazyuka/",
+        "title": "АНОНС — Сьогодні має відбутися засідання у справі одіозного харківського судді Лазюка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Лазюк",
+                        "position": "Суддя",
+                        "affiliations": [
+                            "Дзержинський райсуд Харкова"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Полтавський районний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "04/12/18",
+        "link": "https://antac.org.ua/news/anons-antykoruptsijnyj-kormitet-rozhlyane-zakonoproekt-yakym-hochut-hochut-prybraty-z-deklaratsij-povidomlennya-zmin-do-majnovoho-stanu/",
+        "title": "АНОНС — Антикорупційний комітет розгляне законопроект, що скасовує повідомлення змін до майнового стану в е-деклараціях",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Комітет з питань запобігання і протидії корупції"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "04/12/18",
+        "link": "https://antac.org.ua/news/komitet-kozhem-yakina-skasuvannya-kryminalnoji-vidpovidalnosti-za-habarnytstvo/",
+        "title": "АНОНС — Комітет Кожем’якіна розгляне законопроект про скасування кримінальної відповідальності за хабарництво",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Кожем'якін",
+                        "position": "Голова парламентського комітету з законодавчого забезпечення правоохоронної діяльності"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "04/12/18",
+        "link": "https://antac.org.ua/news/dokument-sud-zobov-yazav-rozsliduvaty-bezdiyalnist-politsiji-pid-chas-napadu-na-shabunina-bilya-sap/",
+        "title": "ДОКУМЕНТ — Суд зобов’язав розслідувати бездіяльність поліції під час нападу на Шабуніна біля САП",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова правління ЦПК"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    },
+                    {
+                        "entity": "Національна поліція",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "03/12/18",
+        "link": "https://antac.org.ua/news/holodnytskyj-shist-raziv-zbrehav-u-komentari-pro-spravu-ryukzakiv/",
+        "title": "Холодницький шість разів збрехав у коментарі про справу рюкзаків",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Назар Холодницький",
+                        "position": "Антикорупційний прокурор"
+                    },
+                    {
+                        "name": "Арсен Аваков",
+                        "position": "Екс-заступник міністра внутрішніх справ"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "03/12/18",
+        "link": "https://antac.org.ua/news/sprava-martynenka-fleshka-vid-shvejtsartsiv-ta-vidvid-prokurora-symkiva/",
+        "title": "Справа Мартиненка: Флешка від Швейцарців та відвід прокурора Симківа",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Skoda js a.s",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Bradcrest Investment",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/11/18",
+        "link": "https://antac.org.ua/news/sprava-martynenka-advokaty-prosyat-sud-ne-vyznavaty-dokazy-zi-shvejtsariji/",
+        "title": "Справа Мартиненка: адвокати просять суд не визнавати докази зі Швейцарії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп від Народного Фронту",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "САП (Спеціалізована антикорупційна прокуратура)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "НАБУ (Національне антикорупційне бюро України)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "СхідГЗК",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "НАЕК Енергоатом",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "23/11/18",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-prokurory-zavershat-doluchaty-dokazy-prychetnosti-eks-nardepa-do-shem/",
+        "title": "АНОНС — Справа Мартиненка: Прокурори завершать долучати докази причетності екс-нардепа до схем",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній нардеп",
+                        "affiliations": [
+                            "Народний Фронт"
+                        ]
+                    },
+                    {
+                        "name": "Роман Симків",
+                        "position": "Прокурор САП"
+                    },
+                    {
+                        "name": "Олексій Скибенко",
+                        "position": "Прокурор САП"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "СхідГЗК",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "НАЕК “Енергоатом”",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "21/11/18",
+        "link": "https://antac.org.ua/news/anons-parlamentski-komitety-sohodni-rozhlyanut-try-sumnivnyh-zakonoproekty/",
+        "title": "АНОНС — Парламентські комітети сьогодні розглянуть три сумнівних законопроекти",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "парламентські комітети правоохоронної діяльності та із запобігання корупції"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "21/11/18",
+        "link": "https://antac.org.ua/news/pres-reliz-espl-rozhlyane-zayavu-tspk-na-zasekrechennya-vyroku-sudu-schodo-hroshej-yanukovycha/",
+        "title": "ЄСПЛ розгляне справу незаконного засекречення вироку суду щодо грошей Януковича",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юрій Луценко",
+                        "position": "Генпрокурор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Костянтин Кулик",
+                        "position": "Прокурор сил АТО",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Краматорський суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "20/11/18",
+        "link": "https://antac.org.ua/news/anons-u-sudi-pokazhut-video-na-yakomu-prokuror-hpu-proponuje-habar-za-robotu-v-nabu/",
+        "title": "АНОНС — У суді покажуть відео, на якому прокурор ГПУ пропонує хабар за роботу в НАБУ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олександр Матюшка",
+                        "position": "Екс-прокурор ГПУ",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Дмитро Валігура",
+                        "position": "Головуючий суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "НАБУ",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Голосіївський райсуд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19/11/18",
+        "link": "https://antac.org.ua/news/sprava-martynenka-prokurory-doluchyly-dokazy-u-shemi-z-rozkradannya-17-2-mln-dolariv-na-shid-hzk/",
+        "title": "Справа Мартиненка: Прокурори долучили докази у схемі з розкрадання 17,2 млн доларів на Схід ГЗК",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Мартиненко",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Роман Симків",
+                        "position": "прокурор САП",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "СхідГЗК (Східний гірничо-збагачувальний комбінат)",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Steuermann",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "19/11/18",
+        "link": "https://antac.org.ua/news/anons-zavtra-vidbudetsya-zasidannya-u-spravi-firtashivskoho-ztmk/",
+        "title": "АНОНС — Завтра відбудеться засідання у справі “фірташівського” ЗТМК",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дмитро Фірташ",
+                        "position": "Співвласник Запорізького титано-магнієвого комбінату",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Запорізький титано-магнієвий комбінат",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [
+                    "Оффшорки Фірташа"
+                ],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "16/11/18",
+        "link": "https://antac.org.ua/news/tspk-zaproshuje-holodnytskoho-publichno-obhovoryty-zlyti-antykoruptsijnoyu-prokuraturoyu-spravy/",
+        "title": "ЦПК запрошує Холодницького публічно обговорити “злиті” антикорупційною прокуратурою справи",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Назар Холодницький",
+                        "position": "Антикорупційний прокурор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова правління Центру протидії корупції",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Арсен Аваков",
+                        "position": "Екс-заступник",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "16/11/18",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-prokurory-prodovzhat-doluchaty-dokazy-rozkradannya-17-2-mln-dolariv-na-shid-hzk/",
+        "title": "АНОНС — Справа Мартиненка: прокурори продовжать долучати докази розкрадання 17,2 млн доларів на Схід ГЗК",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат Народного Фронту"
+                    },
+                    {
+                        "name": "Щебуняєва Л.Л",
+                        "position": "Головуюча суддя"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд міста Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "15/11/18",
+        "link": "https://antac.org.ua/news/aktyvisty-predstavyly-rejestr-zlytyh-sprav-ta-vymahayut-perezapusk-sap/",
+        "title": "Активісти представили реєстр злитих справ та вимагають перезапуск САП",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Назар Холодницький",
+                        "position": "Керівник САП"
+                    },
+                    {
+                        "name": "Олена Щербан",
+                        "position": "Юристка Центру протидії корупції"
+                    },
+                    {
+                        "name": "Арсен Аваков",
+                        "position": "Екс-заступник"
+                    },
+                    {
+                        "name": "Супрун",
+                        "position": "Фігурант справи квартирного хабара"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Спеціалізована антикорупційна прокуратура",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "15/11/18",
+        "link": "https://antac.org.ua/news/avakovjdy-aktyvisty-jidut-do-budynku-ministra-mvs-z-vymohoyu-vidstavky/",
+        "title": "#АваковЙди: Активісти їдуть до будинку міністра МВС з вимогою відставки",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Арсен Аваков",
+                        "position": "Міністр МВС",
+                        "affiliations": [
+                            "МВС"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Національна філармонія",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ГО Центр протидії корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "МВС"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/11/18",
+        "link": "https://antac.org.ua/news/derzhaudytsluzhba-dopomohla-uzakonyty-rozpyl-6-mlrd-hrn-na-budivnytstvi-metro-v-kyjevi/",
+        "title": "Держаудитслужба допомогла узаконити “розпил” 6 млрд грн на будівництві метро в Києві",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Центр протидії корупції",
+                        "position": "Невідомо",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "КП 'Київський метрополітен'",
+                        "position": "Невідомо",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Державна аудиторська служба"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/11/18",
+        "link": "https://antac.org.ua/news/anons-tspk-prezentuje-rejestr-zlytyh-antykoruptsijnoyu-prokuraturoyu-sprav/",
+        "title": "АНОНС — ЦПК презентує реєстр злитих антикорупційною прокуратурою справ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Назар Холодницький",
+                        "position": "Керівник",
+                        "affiliations": [
+                            "Спеціалізована антикорупційна прокуратура"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Спеціалізована антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/11/18",
+        "link": "https://antac.org.ua/news/anons-zavtra-u-sudi-zachytayut-obvynuvalnyj-akt-u-spravi-mera-odesy-truhanova/",
+        "title": "АНОНС — Завтра у суді зачитають обвинувальний акт у справі мера Одеси Труханова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Труханов",
+                        "position": "Мер Одеси",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Галина Богданова",
+                        "position": "Спільниця мера Одеси",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Сергій Черевко",
+                        "position": "Головуючий суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Малиновський районний суд Одеси"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/11/18",
+        "link": "https://antac.org.ua/news/prokurory-doluchyly-dokazy-prychetnosti-martynenka-do-miljonnyh-shem/",
+        "title": "Прокурори долучили докази причетності Мартиненка до мільйонних схем",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/11/18",
+        "link": "https://antac.org.ua/news/anons-sprava-habara-eks-zastupnyku-ministra-osvity-na-finalnij-stadiji-rozhlyadu-sudu/",
+        "title": "АНОНС — Справа хабара екс-заступнику міністра освіти на фінальній стадії розгляду суду",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Гевко",
+                        "position": "Екс-заступник міністра освіти",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Трубников",
+                        "position": "Головуючий суддя",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Касьян",
+                        "position": "Прокурор САП",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Бердянський університет менеджменту і бізнесу",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "09/11/18",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-antykoruptsijna-prokuratura-nadast-sudu-dokaziv-na-51-tys-arkushiv/",
+        "title": "АНОНС — Справа Мартиненка: антикорупційна прокуратура надасть суду докази на 51 тис аркушів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній народний депутат",
+                        "affiliations": [
+                            "Народний Фронт"
+                        ]
+                    },
+                    {
+                        "name": "Щебуняєва Л.Л",
+                        "position": "Головуюча суддя"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ",
+                    "САП"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08/11/18",
+        "link": "https://antac.org.ua/news/zayava-antykoruptsijni-orhanizatsiji-zaklykayut-vkks-zabezpechyty-prozoryj-konkurs-do-antykoruptsijnoho-sudu/",
+        "title": "ЗАЯВА — Антикорупційні організації закликають ВККС забезпечити прозорий конкурс до Антикорупційного суду",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Центр протидії корупції",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "ВО “Автомайдан”",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Фундація “ДЕЮРЕ”",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Трансперенсі Інтернешнл Україна",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Вища кваліфікаційна комісія суддів"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08/11/18",
+        "link": "https://antac.org.ua/news/anons-sud-vyrishyt-chy-znimaty-zvynuvachennya-z-holovnoji-spilnytsi-truhanova/",
+        "title": "АНОНС – Суд вирішить, чи знімати звинувачення з головної спільниці Труханова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Труханов",
+                        "position": "Мер Одеси",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Галина Богданова",
+                        "position": "Фігурантка",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Малиновський районний суд Одеси",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Одеська прокуратура",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Одеська поліція",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "НАБУ",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "САП",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "06/11/18",
+        "link": "https://antac.org.ua/news/vyznachyly-mizhnarodnyh-ekspertiv-yaki-doluchatsya-do-vidboru-antykorsuddiv/",
+        "title": "Визначили міжнародних експертів, які долучаться до відбору антикорсуддів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Громадська рада міжнародних експертів",
+                        "position": "Член",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Кваліфікаційна комісія суддів України",
+                        "position": "Організація",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Міжнародні експерти",
+                        "position": "Судді та прокурори",
+                        "affiliations": [
+                            "Великобританія",
+                            "Литва",
+                            "Канада",
+                            "Данія",
+                            "Македонія"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "05/11/18",
+        "link": "https://antac.org.ua/news/apelyatsijnyj-sud-ostatochno-pohovav-spravu-ryukzakiv-avakova/",
+        "title": "Апеляційний суд остаточно «поховав» справу рюкзаків Авакова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Арсен Аваков",
+                        "position": "Міністр внутрішніх справ",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Снігєрьов",
+                        "position": "Прокурор САП",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Апеляційний суд міста Києва",
+                    "Солом’янський суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05/11/18",
+        "link": "https://antac.org.ua/news/na-donechchyni-derybanyat-majzhe-120-mln-hrn-na-reformi-silskoji-medytsyny/",
+        "title": "На Донеччині “дерибанять” майже 120 млн грн на реформі сільської медицини",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [
+                    {
+                        "entity": "Донецька обласна держадміністрація",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "05/11/18",
+        "link": "https://antac.org.ua/news/martynenku-zachytaly-obvynuvalnyj-akt-ta-vruchyly-povistku-na-dopyt/",
+        "title": "Мартиненку зачитали обвинувальний акт та вручили повістку на допит",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп від Народного Фронту"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Народний Фронт",
+                        "type": "Політична партія"
+                    },
+                    {
+                        "entity": "НАБУ",
+                        "type": "Державний орган"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "02/11/18",
+        "link": "https://antac.org.ua/news/prokuror-zayavyv-vidvid-suddi-seninu-u-spravi-pro-znyattya-areshtu-z-tets-dubnevychiv/",
+        "title": "Прокурор заявив відвід судді Сеніну у справі про зняття арешту з ТЕЦ Дубневичів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Вадим Сенін",
+                        "position": "Суддя",
+                        "affiliations": [
+                            "Солом’янський районний суд міста Києва"
+                        ]
+                    },
+                    {
+                        "name": "Ігор Гарваноко",
+                        "position": "Прокурор",
+                        "affiliations": [
+                            "САП"
+                        ]
+                    },
+                    {
+                        "name": "Ярослав Дубневич",
+                        "position": "Нардеп від БПП",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Богдан Дубневич",
+                        "position": "Нардеп від БПП",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Новороздільська ТЕЦ",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Новояворівська ТЕЦ",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "АРМА",
+                    "САП",
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "02/11/18",
+        "link": "https://antac.org.ua/news/anons-tspk-prodovzhuje-oskarzhuvaty-zakryttya-spravy-ryukzakiv/",
+        "title": "АНОНС — ЦПК продовжує оскаржувати закриття справи рюкзаків",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Арсен Аваков",
+                        "position": "Міністр внутрішніх справ",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Аваков",
+                        "position": "Син міністра внутрішніх справ",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Сергій Чеботар",
+                        "position": "Екс-заступник міністра",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    },
+                    {
+                        "entity": "Солом’янський суд",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Апеляційний суд міста Києва",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Національне антикорупційне бюро",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "02/11/18",
+        "link": "https://antac.org.ua/news/anons-sprava-martynenka-5-lystopada-sud-perejde-do-dokaziv-ta-svidkiv/",
+        "title": "АНОНС — Справа Мартиненка: 5 листопада суд перейде до доказів та свідків",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній депутат Народного Фронту"
+                    },
+                    {
+                        "name": "Симків",
+                        "position": "Прокурор САП"
+                    },
+                    {
+                        "name": "Щебуняєва Л.Л",
+                        "position": "Головуюча суддя"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Шевченківський районний суд міста Києва",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "САП (Спеціалізована антикорупційна прокуратура)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "01/11/18",
+        "link": "https://antac.org.ua/news/sud-vzyav-perervu-v-pytanni-pro-zakryttya-spravy-schodo-otsenschytsi-truhanova/",
+        "title": "Суд взяв перерву в питанні про закриття справи щодо “оценщиці” Труханова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Галина Богданова",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Труханов",
+                        "position": "оценщиця",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Одеська прокуратура",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "НАБУ/САП",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "01/11/18",
+        "link": "https://antac.org.ua/news/anons-zavtra-suddya-senin-mozhe-uhvalyty-rishennya-schodo-tets-dubnevychiv/",
+        "title": "АНОНС — Завтра суддя Сенін може ухвалити рішення щодо ТЕЦ Дубневичів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ярослав Дубневич",
+                        "position": "Нардеп від БПП",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    },
+                    {
+                        "name": "Богдан Дубневич",
+                        "position": "Нардеп від БПП",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ТОВ Новороздільська ТЕЦ",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/10/18",
+        "link": "https://antac.org.ua/news/sabotazh-spravy-truhanova-rukamy-prokuroriv-lutsenka/",
+        "title": "Саботаж справи Труханова руками прокурорів Луценка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Галина Богданова",
+                        "position": "оценщиця",
+                        "affiliations": [
+                            "Одеська міськрада"
+                        ]
+                    },
+                    {
+                        "name": "Труханов",
+                        "position": "мер Одеси",
+                        "affiliations": [
+                            "Одеська міськрада"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Приватна фірма",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Державне товариство",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Малиновський суд Одеси",
+                    "Одеська міськрада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/10/18",
+        "link": "https://antac.org.ua/news/anons-odeskyj-sud-mozhe-znyaty-zvynuvachennya-zi-spilnytsi-truhanova/",
+        "title": "АНОНС — Одеський суд може зняти звинувачення зі спільниці Труханова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Труханов",
+                        "position": "Мер Одеси",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Галина Богданова",
+                        "position": "Оцінювачка нерухомості",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Одеська міська рада",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Завод 'Краян'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Малиновський районний суд Одеси"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "29/10/18",
+        "link": "https://antac.org.ua/news/blyskavychno-shvydko-sud-u-spravi-martynenka-proty-tspk-uzhe-perejshov-do-debativ-storin/",
+        "title": "“Блискавично швидко” — суд у справі Мартиненка проти ЦПК уже перейшов до дебатів сторін",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "екс-нарфронтівець",
+                        "affiliations": [
+                            "НАБУ"
+                        ]
+                    },
+                    {
+                        "name": "В.В.Бортницька",
+                        "position": "суддя"
+                    },
+                    {
+                        "name": "Олександр Литвин",
+                        "position": "адвокат",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "НАБУ",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "26/10/18",
+        "link": "https://antac.org.ua/news/anons-29-zhovtnya-sudove-zasidannya-martynenka-proty-tspk-schodo-vymohy-nardepa-prybraty-zhadky-pro-joho-koruptsijnu-diyalnist-z-sajtu-orhanizatsiji/",
+        "title": "АНОНС — 29 жовтня судове засідання  Мартиненка проти ЦПК щодо вимоги нардепа прибрати згадки про його корупційну діяльність з сайту організації",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-народний депутат",
+                        "affiliations": [
+                            "Народний Фронт"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Громадська організація"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Печерський районний суд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/10/18",
+        "link": "https://antac.org.ua/news/sud-doluchyv-do-materialiv-spravy-pro-skasuvannya-areshtu-tets-dubnevychiv-fejkovu-ekspertyzu/",
+        "title": "Суд долучив до матеріалів справи про скасування арешту ТЕЦ Дубневичів фейкову “експертизу”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "адвокат",
+                        "position": null,
+                        "affiliations": [
+                            "ТОВ Новороздільська ТЕЦ"
+                        ]
+                    },
+                    {
+                        "name": "детектив Бюро",
+                        "position": null,
+                        "affiliations": [
+                            "НАБУ"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ТОВ Новороздільська ТЕЦ",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Солом’янський районний суд Києва",
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/10/18",
+        "link": "https://antac.org.ua/news/sud-vidmovyv-u-domashnomu-areshti-shabunina-ta-dopytav-joho-ekskolehu/",
+        "title": "Суд відмовив у домашньому арешті Шабуніна та допитав його колегу",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова правління Центру протидії корупції",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Філімоненко",
+                        "position": "Провокатор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Тетяна Пеклун",
+                        "position": "Колега та до недавнього часу заступниця виконавчого директора Центру протидії корупції",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Всеволод Філімоненко",
+                        "position": "Помічник народного депутата Радикальної Партії",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Дніпровський районний суд Києва",
+                    "Прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/10/18",
+        "link": "https://antac.org.ua/news/prokuror-ta-advokat-filimonenka-vymahayut-domashnij-aresht-dlya-shabunina/",
+        "title": "ОНОВЛЕННЯ — Суд відмовив у задоволенні клопотання прокурора про домашній арешт Віталія Шабуніна",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дмитро Руснак",
+                        "position": "Прокурор"
+                    },
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова правління Центру протидії корупції"
+                    },
+                    {
+                        "name": "Філімоненко",
+                        "position": "Блогер-провокатор"
+                    },
+                    {
+                        "name": "Олена Щербан",
+                        "position": "Адвокат"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "26/10/18",
+        "link": "https://antac.org.ua/news/martynenko-cherez-sud-vymahaje-vid-tspk-prybraty-publichni-zhadky-pro-svoji-koruptsijni-spravy/",
+        "title": "Мартиненко через суд вимагає від ЦПК прибрати публічні згадки про свої корупційні справи",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Колишній депутат",
+                        "affiliations": [
+                            "Народний фронт"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Громадська організація"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "24/10/18",
+        "link": "https://antac.org.ua/news/verhovnyj-sud-samousunuvsya-vid-rozsekrechennya-deklaratsij-semochkiv-ta-demchyn/",
+        "title": "Верховний суд самоусунувся від розсекречення декларацій семочків та демчин",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олена Щербан",
+                        "position": "юристка",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Служба безпеки України",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховний Суд",
+                    "Національне агентство з питань запобігання корупції (НАЗК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "23/10/18",
+        "link": "https://antac.org.ua/news/anons-zavtra-verhovnyj-sud-rozhlyadatyme-spravu-schodo-zasekrechennya-deklaratsij-sbu/",
+        "title": "АНОНС — Завтра Верховний суд розглядатиме справу щодо засекречення декларацій СБУ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олена Щербан",
+                        "position": "юристка",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Служба безпеки України",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "НАЗК",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховний суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/10/18",
+        "link": "https://antac.org.ua/news/anons-sohodni-martynenku-zachytayut-obvynuvalnyj-akt-u-sudi/",
+        "title": "АНОНС — Сьогодні Мартиненку зачитають обвинувальний акт у суді",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Мартиненко",
+                        "position": "Екс-нардеп",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Щебуняєва Л.Л",
+                        "position": "Головуюча суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ДП «НАЕК «Енергоатом»",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ДП «Східний гірничо-збагачувальний комбінат» (СхідГЗК)",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "19/10/18",
+        "link": "https://antac.org.ua/news/sprava-isaakyana-zasidannya-vidklaly-ta-zayavyly-vidvid-prokurora/",
+        "title": "Справа Ісаакяна: засідання відклали та заявили відвід прокурору",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Арсен Ісаакян",
+                        "position": "Екс-керівник Державної інноваційної фінансово-кредитної установи (ДІФКУ)",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ДП Антонов",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/10/18",
+        "link": "https://antac.org.ua/news/anons-prokurory-sap-sprobuyut-zatverdyty-uhodu-z-fihurantom-spravy-pro-roztratu-majzhe-15-mln-hrn-dp-antonov/",
+        "title": "АНОНС — Прокурори САП спробують затвердити угоду з фігурантом справи про розтрату майже 15 млн грн ДП “Антонов”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Арсен Ісаакян",
+                        "position": "Колишній керівник ДІФКУ"
+                    },
+                    {
+                        "name": "Василь Кричун",
+                        "position": "Прокурор"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ДП 'Антонов'",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Шевченківський районний суд",
+                    "Спеціалізована антикорупційна прокуратура (САП)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/10/18",
+        "link": "https://antac.org.ua/news/komitet-kozhem-yakina-zalyshyv-derzhavnu-monopoliyu-ta-pryznachennya-ekspertyz-dlya-rozsliduvannya-koruptsiji-cherez-sud/",
+        "title": "Комітет Кожем’якіна залишив державну монополію та призначення експертиз для розслідування корупції через суд",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Лозовий",
+                        "position": "Нардеп",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Комітет з питань законодавчого забезпечення правоохоронної діяльності"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/10/18",
+        "link": "https://antac.org.ua/news/anons-deputaty-vid-bpp-dubnevychi-ne-polyshayut-sprob-znyaty-aresht-ta-povernuty-kontrol-nad-tets-na-lvivschyni/",
+        "title": "АНОНС — Депутати від БПП Дубневичі не полишають спроб зняти арешт та повернути контроль над ТЕЦ на Львівщині",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дубневичі",
+                        "position": "Народні депутати",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    },
+                    {
+                        "name": "Вадим Сенін",
+                        "position": "Головуючий суддя",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "АРМА Новороздільська ТЕЦ",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/10/18",
+        "link": "https://antac.org.ua/news/nezalezhnist-ekspertyz-u-spravah-top-koruptsiji-pid-zahrozoyu-zayava/",
+        "title": "Незалежність експертиз у справах топ-корупції під загрозою — ЗАЯВА",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Мустафа Найєм",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Комітет з питань законодавчого забезпечення правоохоронної діяльності"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "16/10/18",
+        "link": "https://antac.org.ua/news/anons-komitet-kozhem-yakina-rozhlyane-zakonoproekt-scho-dozvolyaje-kontrolyuvaty-ekspertyzy-u-spravah-top-koruptsiji/",
+        "title": "АНОНС — Комітет Кожем’якіна розгляне законопроект, що дозволяє контролювати експертизи у справах топ-корупції",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Лозовий",
+                        "position": "Невідомо",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Комітет з питань законодавчого забезпечення правоохоронної діяльності"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/10/18",
+        "link": "https://antac.org.ua/news/anons-dubnevychi-vcherhove-namahayutsya-znyaty-aresht-zi-svojih-tets-u-lvivskij-oblasti/",
+        "title": "АНОНС — Дубневичі вчергове намагаються зняти арешт зі своїх ТЕЦ у Львівській області",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дубневичі",
+                        "position": "Народні депутати від БПП",
+                        "affiliations": [
+                            "Брати"
+                        ]
+                    },
+                    {
+                        "name": "Курова О.І",
+                        "position": "Головуюча суддя"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Фірми, які належать народним депутатам від БПП братам Дубневичам",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "НАБУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/10/18",
+        "link": "https://antac.org.ua/news/derzhpidpryjemstvo-na-donechchyni-hotilo-viddaty-ponad-10-mln-hrn-nedobrosovisnij-kompaniji/",
+        "title": "Держпідприємство на Донеччині хотіло віддати понад 10 млн грн недобросовісній компанії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Антимонопольний комітет",
+                        "position": "Недоречне використання",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Мирноградвугілля",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ТОВ 'Укрмет Груп'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,4579 @@
+[
+    {
+        "date": "12/05/16",
+        "link": "https://antac.org.ua/news/henprokuratura-aktyvizuvala-rozsliduvannya-stosovno-tsentru-protydiji-koruptsiji/",
+        "title": "Генпрокуратура активізувала розслідування стосовно Центру протидії корупції",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Департаменту з розслідування та нагляду у кримінальних провадженнях у сферах державної служби та власності",
+                        "position": "Слідчі",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Департамент Кононенка-Грановського",
+                        "position": "Невідомо",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України",
+                    "Печерський суд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/04/16",
+        "link": "https://antac.org.ua/news/stolychni-prokurory-vidmovylysya-rozsliduvaty-miljony-zastupnyka-klychka/",
+        "title": "Столичні прокурори відмовилися розслідувати мільйони заступника Кличка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ілля Сагайдак",
+                        "position": "Заступник Голови КМДА",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ірина",
+                        "position": "Дружина Іллі Сагайдака",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олексій Івченко",
+                        "position": "Колишній голова НАК 'Нафтогаз України'",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Слідча прокуратура міста Києва",
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "20/04/16",
+        "link": "https://antac.org.ua/news/lamajemo-shemu-zakupivli-likiv-cherez-prokladky-prokladky-v-ahoniji/",
+        "title": "Ламаємо схему закупівлі ліків через прокладки. Прокладки – в агонії",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "постачальники прокладок",
+                        "position": "н/д",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "виробники",
+                        "position": "н/д",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "посередники",
+                        "position": "н/д",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "українська митниця"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19/04/16",
+        "link": "https://antac.org.ua/news/pecherskyj-sud-zvolikaje-z-rozhlyadom-skarhy-tspk-na-hpu/",
+        "title": "Печерський суд зволікає з розглядом скарги ЦПК на ГПУ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "слідчі та прокурори Генеральної прокуратури України",
+                        "position": "слідчі та прокурори",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    },
+                    {
+                        "entity": "Генеральна прокуратура України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/04/16",
+        "link": "https://antac.org.ua/news/pid-verhovnoyu-radoyu-nardepy-rozhribaly-hory-konfiskovanyh-hroshej/",
+        "title": "Під Верховною Радою “нардепи” розгрібали гори конфіскованих грошей",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Пашинський",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Народний Фронт"
+                        ]
+                    },
+                    {
+                        "name": "Вінник",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Парламент",
+                    "Прокуратура",
+                    "Слідчі органи"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/04/16",
+        "link": "https://antac.org.ua/news/anons-aktsiya-pid-vr-nardepy-rozhribatymut-hory-konfiskovanyh-hroshej/",
+        "title": "АНОНС – акція під ВР “нардепи” розгрібатимуть гори конфіскованих грошей",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Пашинський",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Народний Фронт"
+                        ]
+                    },
+                    {
+                        "name": "Вінник",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Парламент"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/04/16",
+        "link": "https://antac.org.ua/news/anons-komitet-i-85-storinok-pravok-yak-nardepy-hochut-dozvolyty-konfiskatsiyu-statkiv-do-vyroku-sudu/",
+        "title": "АНОНС – комітет і 85 сторінок правок: як нардепи хочуть дозволити конфіскацію статків до вироку суду",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Вінник-Пашинський",
+                        "position": "Автор законопроекту",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Янукович",
+                        "position": "Екс-президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генпрокуратура",
+                    "СБУ",
+                    "Верховна Рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "07/04/16",
+        "link": "https://antac.org.ua/news/akademiya-medychnyh-nauk-hoche-zakupyty-mensh-efektyvni-ta-vdvichi-dorozhchi-liky-vid-hepatytu/",
+        "title": "Академія медичних наук хоче закупити менш ефективні та вдвічі дорожчі ліки від гепатиту",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Інститут епідеміології та інфекційних хвороб ім Л.В Громашевського",
+                        "position": "Невказано",
+                        "affiliations": [
+                            "Академія медичних наук"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Веб-портал з питань державних закупівель"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "06/04/16",
+        "link": "https://antac.org.ua/news/anons-aktyvisty-vidkryyut-aleyu-koruptsiji-akademiji-nauk/",
+        "title": "АНОНС – активісти відкриють алею корупції Академії наук",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Академія наук України",
+                        "position": "Н/Д",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "04/04/16",
+        "link": "https://antac.org.ua/news/3-veschy-kotoryie-zastavyat-lyuboho-poroshenka-deklaryrovat-offshoryi/",
+        "title": "Декларировать оффшоры",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Президент",
+                        "position": "Президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Правоохоронні органи",
+                    "Армія",
+                    "Політика",
+                    "Медіа"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "04/04/16",
+        "link": "https://antac.org.ua/news/zhoden-orhan-ne-mozhe-rozsliduvaty-diyalnist-poroshenka/",
+        "title": "Жоден орган не може розслідувати діяльність Порошенка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "президент",
+                        "position": "Президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Антикорупційне Бюро",
+                    "Адміністрація Президента",
+                    "Державне Бюро Розслідувань",
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "04/04/16",
+        "link": "https://antac.org.ua/news/kmda-hoche-povernutysya-do-staryh-koruptsijnyh-shem-pry-zakupivli-likiv/",
+        "title": "КМДА хоче повернутися до старих корупційних схем при закупівлі ліків",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олена Щербан",
+                        "position": "Юрист",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Комітет конкурсних торгів КМДА"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "01/04/16",
+        "link": "https://antac.org.ua/news/posadyty-shokinskoho-stolyarchuka-zamist-ivanyuschenka/",
+        "title": "Посадити шокінського Столярчука замість Іванющенка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Іванющенко Ю.В.",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "ГПУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/03/16",
+        "link": "https://antac.org.ua/news/pochemu-yu-ne-dolzhen-stat-sleduyuschem-henprokurorom/",
+        "title": "Почему “Ю” не должен стать следующем Генпрокурором",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юрій Севрук",
+                        "position": "Замість генпрокурора",
+                        "affiliations": [
+                            "Кабінет на Ризницькій"
+                        ]
+                    },
+                    {
+                        "name": "Юрій Столярчук",
+                        "position": "Замість генпрокурора",
+                        "affiliations": [
+                            "Кабінет на Ризницькій"
+                        ]
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Парламент"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/03/16",
+        "link": "https://antac.org.ua/news/konfyskovat-yly-otobrat-y-podelyt/",
+        "title": "Конфисковать или отобрать и поделить?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Янукович",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Курченко",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генпрокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/03/16",
+        "link": "https://antac.org.ua/news/natsionalizuvaty-nemozhna-konfiskuvaty-yak-povernuty-ukradene-sim-jeyu/",
+        "title": "Націоналізувати неможна конфіскувати",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Янукович",
+                        "position": "Президент-утікач",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Шокін",
+                        "position": "Генпрокурор",
+                        "affiliations": [
+                            "ГПУ"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада",
+                    "Генпрокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "30/03/16",
+        "link": "https://antac.org.ua/news/tsentr-protydiji-koruptsiji-podav-zayavu-pro-zlochyn-na-hpu/",
+        "title": "ЦПК подав заяву про злочин на ГПУ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олена Щербан",
+                        "position": "юрист громадської організації",
+                        "affiliations": [
+                            "громадська організація"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Генеральна прокуратура імені Шокіна",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Генпрокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "29/03/16",
+        "link": "https://antac.org.ua/news/tsentr-protydiji-koruptsiji-podaje-zayavu-pro-zlochyn-na-hpu/",
+        "title": "АНОНС – ЦПК подає заяву про злочин на ГПУ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Команда Центру протидії корупції",
+                        "position": "Представники",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    },
+                    {
+                        "name": "Організація Генеральної прокуратури України",
+                        "position": "Генеральна прокуратура України",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    },
+                    {
+                        "name": "Активісти",
+                        "position": "Представники",
+                        "affiliations": [
+                            "Громадські активісти"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Генеральна прокуратура України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/03/16",
+        "link": "https://antac.org.ua/news/pecherskyj-sud-dozvolyv-henprokuraturi-vyjimku-dokumentiv-tsentru-protydiji-koruptsiji-2/",
+        "title": "Печерський суд дозволив Генпрокуратурі виїмку документів ЦПК",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "слідчі Генеральної прокуратури України",
+                        "position": "слідчі",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Громадська організація"
+                    },
+                    {
+                        "entity": "банки, що обслуговують організацію",
+                        "type": "Приватні"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Печерський суд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "24/03/16",
+        "link": "https://antac.org.ua/news/pravovyj-analiz-rpr-osnovnyh-vad-zakonoproektu-4057/",
+        "title": "Правовий аналіз РПР основних вад законопроекту #4057",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "прокурор",
+                        "position": "прокурор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "24/03/16",
+        "link": "https://antac.org.ua/news/zakonoproekt-pro-konfiskatsiyu-aktyviv-yanukovycha-4057-superechyt-jevropejskym-standartam-i-porushuje-pravo-vlasnosti/",
+        "title": "Законопроект про конфіскацію активів Януковича №4057 ухвалювати не можна",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Янукович",
+                        "position": "Екс-президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "23/03/16",
+        "link": "https://antac.org.ua/news/raznaryadka-vid-shokina-nabu-spravy-ne-peredavaty-dokument/",
+        "title": "Разнарядка від Шокіна: НАБУ справи не передавати – документ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Шокін",
+                        "position": "Генпрокурор"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генпрокуратура",
+                    "Антикорупційне Бюро",
+                    "Спец.антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/03/16",
+        "link": "https://antac.org.ua/news/anons-prezentatsiya-onlajn-instrumentu-kontrolyu-za-finansamy-chynovnykiv/",
+        "title": "АНОНС – презентація онлайн-інструменту контролю за фінансами чиновників",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Президент",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Урядовці",
+                        "position": "Урядовці",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Судді",
+                        "position": "Судді",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Правоохоронці",
+                        "position": "Правоохоронці",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Військові",
+                        "position": "Військові",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Керівники державних служб",
+                        "position": "Керівники державних служб",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Політичні партії",
+                        "position": "Політичні партії",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "16/02/16",
+        "link": "https://antac.org.ua/news/afera-poroshokina-kontrol-nad-antykoruptsijnoyu-prokuraturoyu-v-obmin-na-transh-mvf/",
+        "title": "Афера Порошокіна: контроль над Антикорупційною прокуратурою в обмін на транш МВФ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Шокін",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "МВФ",
+                    "Антикорупційна прокуратура",
+                    "Спеціалізована антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/02/16",
+        "link": "https://antac.org.ua/news/obvynuvachuvanyj-efremov-uzhe-ne-pid-areshtom/",
+        "title": "Обвинувачуваний Єфремов уже не під арештом",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олександр Єфремов",
+                        "position": "Екс-голова Партії Регіонів"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "ГПУ (Генеральна прокуратура України)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/02/16",
+        "link": "https://antac.org.ua/news/obydva-henprokurory-poroshenka-dopomohaly-ivanyuschenko-pozbutysya-sanktsij-shabunin/",
+        "title": "Обидва генпрокурори Порошенка допомогали Іванющенко позбутися санкцій",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юра Єнакієвський",
+                        "position": "Підозрюваний"
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Генеральний прокурор"
+                    },
+                    {
+                        "name": "Юрій Ярема",
+                        "position": "Генеральний прокурор"
+                    },
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор"
+                    },
+                    {
+                        "name": "Іванющенко",
+                        "position": "Особа, якій оголошено підозру"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/01/16",
+        "link": "https://antac.org.ua/news/vyhrani-sudy-persha-lastivka-pered-znyattyam-sanktsij-samym-es-d-kalenyuk/",
+        "title": "Виграні суди – перша ластівка перед зняттям європейських санкцій",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "М. Азаров",
+                        "position": "Екс-високопосадовець",
+                        "affiliations": [
+                            "Поплічник Януковича"
+                        ]
+                    },
+                    {
+                        "name": "О. Азаров",
+                        "position": "Екс-високопосадовець",
+                        "affiliations": [
+                            "Поплічник Януковича"
+                        ]
+                    },
+                    {
+                        "name": "С. Клюєв",
+                        "position": "Екс-високопосадовець",
+                        "affiliations": [
+                            "Поплічник Януковича"
+                        ]
+                    },
+                    {
+                        "name": "С. Арбузов",
+                        "position": "Екс-високопосадовець",
+                        "affiliations": [
+                            "Поплічник Януковича"
+                        ]
+                    },
+                    {
+                        "name": "Е. Ставицький",
+                        "position": "Екс-високопосадовець",
+                        "affiliations": [
+                            "Поплічник Януковича"
+                        ]
+                    },
+                    {
+                        "name": "Дарина Каленюк",
+                        "position": "Виконавчий директор Центру протидії корупції",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генпрокуратура",
+                    "Рада ЄС"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/01/16",
+        "link": "https://antac.org.ua/news/z-sajtu-interpolu-znykly-vsi-ukrajinski-eks-vysokoposadovtsi/",
+        "title": "З сайту Інтерполу зникли всі українські екс-високопосадовці",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Азаров",
+                        "position": "Екс-прем'єр-міністр України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Раїса Богатирьова",
+                        "position": "Колишня очільниця Міністерства охорони здоров'я",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Сергій Курченко",
+                        "position": "Бізнесмен",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Юрій Колобов",
+                        "position": "Міністр фінансів уряду Азарова",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Юрій Іванющенко",
+                        "position": "Колишній нардеп та близький соратник Януковича",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Інтерпол"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/12/15",
+        "link": "https://antac.org.ua/news/315-mln-zekonomyly-derzhavi-u-2015-rotsi-zvit/",
+        "title": "315 млн зекономили державі у 2015 році – звіт",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [
+                    {
+                        "entity": "ЦПК",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "24/12/15",
+        "link": "https://antac.org.ua/news/likari-snid-tsentru-zipsuvaly-testiv-na-3-mln-hrn/",
+        "title": "Лікарі СНІД центру зіпсували тестів на 3 мільойни гривень – документи",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Лікарі Слов’янського центру СНІДу",
+                        "position": "Лікарі",
+                        "affiliations": [
+                            "Слов’янський центр СНІДу"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18/12/15",
+        "link": "https://antac.org.ua/news/pozytyvnyj-zvit-sche-ne-oznachaje-skasuvannya-viz-vymohy-es-zalyshayutsya/",
+        "title": "Позитивний звіт ще не означає скасування віз, вимоги ЄС залишаються",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Єврокомісія"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "16/12/15",
+        "link": "https://antac.org.ua/news/umovno-vidkrytyj-rejestr-avto-mvs/",
+        "title": "Умовно відкритий реєстр авто МВС",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "мажори-прокурори",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "СБУшники",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "депутати місцевих рад",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "МВС",
+                    "Державтоінспекція"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/12/15",
+        "link": "https://antac.org.ua/news/anons-chynovnytski-deklaratsiji-pid-pylnym-zahystom-kabminu/",
+        "title": "АНОНС – чиновницькі декларації – під пильним захистом КабМіну",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Прем’єр",
+                        "position": "Прем’єр-міністр",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Агентство із запобігання корупції (НАЗК)",
+                    "Конкурсна комісія"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/12/15",
+        "link": "https://antac.org.ua/news/uryad-vynen-u-provali-stvorennya-ahentstva-iz-zapobihannya-koruptsiji-aktyvisty/",
+        "title": "Уряд винен у провалі створення агентства із запобігання корупції",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Прем’єр-міністр України",
+                        "position": "Прем’єр-міністр",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "чиновники",
+                        "position": "близькі до Прем’єра",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "представники влади",
+                        "position": "члени Конкурсної комісії",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "представники громадськості",
+                        "position": "представники громадськості",
+                        "affiliations": [
+                            "Голос"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Національне агентство з питань запобігання корупції",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Уряд"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/12/15",
+        "link": "https://antac.org.ua/news/derzhlisahentstvo-zobov-yazalo-znesty-parkan-z-kolyuchym-drotom-navkolo-fortets-zlochevskoho/",
+        "title": "Держлісагентство зобов’язало знести паркан з колючим дротом навколо “фортець Злочевського”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Злочевський",
+                        "position": "Екс-міністр уряду Азарова",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Державне агентство лісових ресурсів України",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Садове товариство 'Ключі'",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Державне агентство лісових ресурсів України",
+                    "Центр протидії корупції"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/12/15",
+        "link": "https://antac.org.ua/news/anons-robotu-antykoruptsijnoji-prokuratury-ta-nabu-hochut-zupynyty-cherez-sudy/",
+        "title": "АНОНС – хто хоче зупинити конкурс в антикорупційну прокуратуру",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "члени конкурсної комісії",
+                        "position": "представники",
+                        "affiliations": [
+                            "Антикорупційна прокуратура"
+                        ]
+                    },
+                    {
+                        "name": "співробітники Генпрокуратури",
+                        "position": "невизначено",
+                        "affiliations": [
+                            "Генпрокуратура"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Антикорупційна прокуратура",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Антикорупційне бюро",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "09/12/15",
+        "link": "https://antac.org.ua/news/anons-robotu-antykoruptsijnoji-prokuratury-hochut-zablokuvaty-cherez-sud/",
+        "title": "АНОНС – роботу Антикорупційної прокуратури хочуть заблокувати через суд",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Стоцький Микола",
+                        "position": "Працівник Генеральної прокуратури",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Окружний адміністративний суд Києва",
+                    "Антикорупційна прокуратура",
+                    "Національне антикорупційне бюро України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08/12/15",
+        "link": "https://antac.org.ua/news/pecherskyj-sud-zobov-yazav-stolychnu-prokuraturu-rozsliduvaty-kvartyry-nasirova/",
+        "title": "Печерський суд зобов’язав столичну прокуратуру розслідувати квартири Насірова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Роман Насіров",
+                        "position": "Голова Державної фіскальної служби",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Савін",
+                        "position": "Юрист Центру протидії корупції",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Прокуратура міста Києва",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Антикорупційне бюро",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Печерський районний суд Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05/12/15",
+        "link": "https://antac.org.ua/news/v-onovlenij-prokuraturi-poroshokina-0-novyh-prokuroriv/",
+        "title": "В оновленій прокуратурі ПороШокіна – 0 нових прокурорів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Органи прокуратури"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "02/12/15",
+        "link": "https://antac.org.ua/news/poplichnyku-kaskiva-z-povitryanoho-ekspresu-povidomleno-pro-pidozru/",
+        "title": "Поплічнику Каськіва з Повітряного експресу повідомлено про підозру",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Геннадій Дьяченко",
+                        "position": "виконуючий обов’язки директора",
+                        "affiliations": [
+                            "ДП Повітряний експрес"
+                        ]
+                    },
+                    {
+                        "name": "О. Валендюк",
+                        "position": "в.о прокурора Києва",
+                        "affiliations": [
+                            "прокуратура Києва"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ДП Повітряний експрес",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "прокуратура Києва"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "27/11/15",
+        "link": "https://antac.org.ua/news/v-antykoruptsijni-prokurory-sune-kandydat-scho-pohodzhuvav-orlam-zaharchenka-peresliduvannya-aktyvistiv-majdanu-po-vsij-krajini/",
+        "title": "В Антикорупційні прокурори суне кандидат, що погоджував “орлам Захарченка” переслідування активістів Майдану по всій країні",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Роман Говда",
+                        "position": "Кандидат на посаду керівника Спеціалізованої антикорупційної прокуратури",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віталій Захарченко",
+                        "position": "Екс-міністр МВС України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Міністерство внутрішніх справ України",
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/11/15",
+        "link": "https://antac.org.ua/news/do-kerivnytstva-ahentstva-z-perevirky-deklaratsij-mayut-uvijty-antykoruptsijni-aktyvisty/",
+        "title": "До керівництва Агентства з перевірки декларацій мають увійти антикорупціонери",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Федір Веніславський",
+                        "position": "Соратник по антикорупційному спротиву",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Роман Маселката",
+                        "position": "Соратник по антикорупційному спротиву",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Чумак",
+                        "position": "Соратник по антикорупційному спротиву",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне агентство з питань запобігання корупції (НАЗК)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/11/15",
+        "link": "https://antac.org.ua/news/kandydat-na-antykoruptsijnoho-prokurora-zakryv-spravu-porushenu-po-zolotomu-dytyachomu-sadku-v-ukrajini/",
+        "title": "Кандидат на антикорупційного прокурора закрив справу, порушену  по  “золотому”дитячому садку в Україні",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Роман Говда",
+                        "position": "Заступник Генерального прокурора України, кандидат на посаду Антикорупційного прокурора України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Михайло Бухтіяров",
+                        "position": "Заступник голови Біляївської міської ради",
+                        "affiliations": [
+                            "Екс-регіонал"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ТОВ 'БІЛД-ПРО'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/11/15",
+        "link": "https://antac.org.ua/news/aresht-i-konfiskatsiya-v-komi/",
+        "title": "Арешт і конфіскація – в комі",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Правоохоронний комітет",
+                    "Уряд України",
+                    "Народні депутати"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/11/15",
+        "link": "https://antac.org.ua/news/proekty-pro-aresht-ta-konfiskatsiyu-znivelyuyut-robotu-finrozvidky-shabunin/",
+        "title": "Законопроекти про арешт та конфіскацію знівелюють роботу фінрозвідки",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Правоохоронний комітет",
+                    "ФАТФ (Financial Action Task Force on Money Laundering)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/11/15",
+        "link": "https://antac.org.ua/news/deputaty-hochut-perepysaty-pravyla-areshtu-ta-konfiskatsiji/",
+        "title": "Депутати хочуть переписати правила арешту та конфіскації",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Гройсман",
+                        "position": "Спікер",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/11/15",
+        "link": "https://antac.org.ua/news/petrnenko-ta-kasko-zahyschatymut-u-komiteti-aresht-ta-konfiskatsiyu-vid-perepysuvannya-nardepamy/",
+        "title": "АНОНС – Петренко та Касько захищатимуть у комітеті арешт та конфіскацію від переписування нардепами",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Андрій Кожем’якін",
+                        "position": "Голова комітету ВР з питань забезпечення правоохоронної діяльності",
+                        "affiliations": [
+                            "Верховна Рада України"
+                        ]
+                    },
+                    {
+                        "name": "Юрій Луценко",
+                        "position": "Член комітету ВР з питань забезпечення правоохоронної діяльності",
+                        "affiliations": [
+                            "Блок Петра Порошенка"
+                        ]
+                    },
+                    {
+                        "name": "Павло Петренко",
+                        "position": "Міністр юстиції",
+                        "affiliations": [
+                            "Міністерство юстиції України"
+                        ]
+                    },
+                    {
+                        "name": "Віталій Касько",
+                        "position": "Заступник генерального прокурора",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство юстиції України",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Генеральна прокуратура України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/11/15",
+        "link": "https://antac.org.ua/news/aktyvisty-vymahayut-vid-shokina-zaminyty-sevruka-na-kesslera/",
+        "title": "Шокін, заміни свого Севрука на нічийого Кесслера!",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юрій Севрук",
+                        "position": "Перший заступник генерального прокурора",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Джованні Кесслер",
+                        "position": "Директор Європейського управління боротьби з шахрайством",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України",
+                    "Спеціалізована Антикорупційна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08/11/15",
+        "link": "https://antac.org.ua/news/poroshokin-breshe-vymohy-es-pro-antykoruptsijnu-prokuraturu-ne-vykonano/",
+        "title": "ПороШокін бреше – вимоги ЄС про антикорупційну прокуратуру НЕ виконано",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Президент України",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Європейці",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Німецькі журналісти",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генпрокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "04/11/15",
+        "link": "https://antac.org.ua/news/anons-komitet-z-pravoohoronnoji-diyalnosti-zavalyuje-spetskonfiskatsiyu-leksusiv-druzhyn/",
+        "title": "АНОНС – комітет  з правоохоронної діяльності завалює спецконфіскацію Лексусів дружин",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Міністерство юстиції України",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Генеральна прокуратура",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "04/11/15",
+        "link": "https://antac.org.ua/news/anons-deputaty-kastruyut-ahentsiyu-z-povernennya-aktyviv/",
+        "title": "АНОНС – депутати “каструють” Агенцію з повернення активів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Депутати",
+                        "position": "",
+                        "affiliations": [
+                            "Верховна Рада"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Національне агентство України з питань виявлення, розшуку та управління активами",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Комітет Верховної Ради з питань запобігання та протидії корупції"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/10/15",
+        "link": "https://antac.org.ua/news/avtomajdan-pryjihav-do-poroshenka-zvilnyaty-shokina/",
+        "title": "Автомайдан приїхав до Порошенка звільняти Шокіна",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний Прокурор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "28/10/15",
+        "link": "https://antac.org.ua/news/aktyvisty-pryvezly-shokinu-hamivnu-sorochku-ta-vymahaly-vykonaty-vymohy-es/",
+        "title": "Активісти привезли Шокіну гамівну сорочку та вимагали виконати вимоги ЄС",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України",
+                    "Міністерство закордонних справ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "27/10/15",
+        "link": "https://antac.org.ua/news/fyfyshokin-zjihav-z-hluzdu/",
+        "title": "АНОНС – акція: Шокін з’їхав з глузду",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    },
+                    {
+                        "name": "Павло Клімкін",
+                        "position": "Міністр закордонних справ",
+                        "affiliations": [
+                            "МЗС України"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "МЗС України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/10/15",
+        "link": "https://antac.org.ua/news/6-prizvysch-yaki-zavazhayut-mizhnarodnykam-kupyty-liky-dlya-tyazhkohvoryh/",
+        "title": "6 прізвищ, які заважають міжнародникам купити ліки для тяжкохворих",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "чиновники Кабміну",
+                        "position": "невизначено",
+                        "affiliations": [
+                            "Кабінет Міністрів України"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Кабінет Міністрів України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/10/15",
+        "link": "https://antac.org.ua/news/anons-naperedodni-novyh-pidozr-diamantovym-prokuroram-hpu-posylyuje-tysk-na-slidstvo/",
+        "title": "АНОНС – напередодні нових підозр “діамантовим прокурорам” ГПУ посилює тиск на слідство",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Касько В.В",
+                        "position": "Заступник Генерального прокурора України",
+                        "affiliations": [
+                            "ГПУ"
+                        ]
+                    },
+                    {
+                        "name": "Трепак В.М",
+                        "position": "Перший заступник Голови Служби безпеки України – начальник ГУ по боротьбі з корупцією та організованою злочинністю Центрального управління СБУ",
+                        "affiliations": [
+                            "СБУ"
+                        ]
+                    },
+                    {
+                        "name": "Шапакін В.М",
+                        "position": "прокурор",
+                        "affiliations": [
+                            "Генеральна прокуратура"
+                        ]
+                    },
+                    {
+                        "name": "Корнійця О.П",
+                        "position": "прокурор",
+                        "affiliations": [
+                            "Генеральна прокуратура"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ГПУ",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "СБУ",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/10/15",
+        "link": "https://antac.org.ua/news/pravyla-vozvrata-kak-konfyskovat-ymuschestvo-korruptsyonerov/",
+        "title": "Правила возврата: как конфисковать имущество коррупционеров",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "корумповані чиновники",
+                        "position": "н/д",
+                        "affiliations": [
+                            "н/д"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "08/10/15",
+        "link": "https://antac.org.ua/news/zakon-shokina-abo-yak-henprokuror-hotiv-zaprovadyty-osoblyvyj-rezhym-konfiskatsiji-majna-u-5-poplichnykiv-yanukovycha/",
+        "title": "”Закон Шокіна” або Як генпрокурор хотів запровадити ”особливий режим конфіскації” майна у 5 поплічників Януковича",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Президент України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/09/15",
+        "link": "https://antac.org.ua/news/tendery-bez-anonimiv-kompaniyam-z-neprozoroyu-vlasnistyu-zaboronyly-uchast-u-zakupivlyah/",
+        "title": "Тендери без анонімів: компаніям з непрозорою власністю заборонили участь у закупівлях",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Парламент України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/09/15",
+        "link": "https://antac.org.ua/news/kyjivski-chynovnyky-zakupyly-liky-dlya-onkohvoryh-v-3-razy-dorozhche-mozu/",
+        "title": "Київські чиновники закупили ліки для онкохворих в три рази дорожче МОЗу",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Київська міська державна адміністрація",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Міністерство охорони здоров’я",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "громадські активісти",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Київська міська державна адміністрація",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Міністерство охорони здоров’я",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "22/09/15",
+        "link": "https://antac.org.ua/news/aktyvisty-zvynuvachuyut-henprokurora-u-brehni/",
+        "title": "Активісти звинувачують генпрокурора у брехні",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/09/15",
+        "link": "https://antac.org.ua/news/aktsiya-pinokkio-v-heneralnij-prokuraturi/",
+        "title": "АНОНС – акція: Піноккіо в Генеральній прокуратурі",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "21/09/15",
+        "link": "https://antac.org.ua/news/kvitashvili-v-obhid-kabminu-prosuvaje-pomichnyka-nardepa-na-kerivnyka-derzhavnoho-ekspertnoho-tsentru/",
+        "title": "Квіташвілі в обхід Кабміну просуває помічника нардепа на керівника Державного експертного центру",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олександр Квіташвілі",
+                        "position": "Міністр охорони здоров'я",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Іван Бавикін",
+                        "position": "Помічник народного депутата від БПП Гліба Загорія, власник фармацевтичного заводу 'Дарниця'",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Гліб Загорій",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "БПП"
+                        ]
+                    },
+                    {
+                        "name": "Віталій Кличко",
+                        "position": "Мер Києва",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Державний експертний центр",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Фармацевтичний завод 'Дарниця'",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Підприємство 'Укрмедсерт'",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "16/09/15",
+        "link": "https://antac.org.ua/news/ahentstvo-z-povernennya-aktyviv-ta-naftoprodukty-kurchenka/",
+        "title": "Агентство з повернення активів та ”нафтопродукти Курченка”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Антикорупційний комітет"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/09/15",
+        "link": "https://antac.org.ua/news/konfiskatsiya-bez-vyroku-sudu-chy-je-tse-jevropejskoyu-praktykoyu/",
+        "title": "Конфіскація без вироку суду – чи є це європейською практикою?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Тищенко",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Чорновол",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Волоха",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Янукович",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Генеральний прокурор",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "03/09/15",
+        "link": "https://antac.org.ua/news/biofarma-monopolizue-rynok-krovi-aktyvisty/",
+        "title": "“БІОФАРМА” монополізує ринок крові",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Депутати житомирської облради",
+                        "position": "Депутати",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Активісти антикорупційних та пацієнтських організацій",
+                        "position": "Активісти",
+                        "affiliations": [
+                            "Центр протидії корупції",
+                            "Асоціація молодих донорів України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ПАТ “Біофарма”",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Житомирський обласний центр крові",
+                        "type": "Комунальна установа"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Житомирська обласна рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/08/15",
+        "link": "https://antac.org.ua/news/shokin-vykorystav-reformu-prokuratury-schob-postavyty-svojih-lyudej-na-potribni-pozytsiji/",
+        "title": "АНОНС – Шокін використав реформу прокуратури, щоб поставити своїх людей на потрібні позиції",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Заліско",
+                        "position": "Заступник Генерального прокурора",
+                        "affiliations": [
+                            "Генеральна прокуратура"
+                        ]
+                    },
+                    {
+                        "name": "Янукович",
+                        "position": "Високопосадовець"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Комітет по боротьбі з корупцією Верховної Ради України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/07/15",
+        "link": "https://antac.org.ua/news/pravoohorontsi-zlyvayut-spravu-pro-500-miljoniv-pereplaty-na-stolychnomu-metro-soratnyku-yanukovycha/",
+        "title": "Правоохоронці зливають справу про 500 мільйонів переплати на столичному метро соратнику Януковича",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Юрій Іванющенко",
+                        "position": "",
+                        "affiliations": [
+                            "Компанія близького соратника Януковича"
+                        ]
+                    },
+                    {
+                        "name": "Юра Єнакіївський",
+                        "position": "",
+                        "affiliations": [
+                            "Компанія близького соратника Януковича"
+                        ]
+                    },
+                    {
+                        "name": "Устінова Олександра",
+                        "position": "Член правління",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура",
+                    "Міліція метрополітену"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "24/07/15",
+        "link": "https://antac.org.ua/news/shapky-na-prokurorah-palyly-bilya-henprokuratury/",
+        "title": "Шапки на прокурорах палили біля Генпрокуратури",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Генпрокурор Шокін",
+                        "position": "Генпрокурор",
+                        "affiliations": [
+                            "ГПУ"
+                        ]
+                    },
+                    {
+                        "name": "Гузиря",
+                        "position": "Заступник Генпрокурора",
+                        "affiliations": [
+                            "ГПУ"
+                        ]
+                    },
+                    {
+                        "name": "Столярчук",
+                        "position": "Заступник Генпрокурора",
+                        "affiliations": [
+                            "ГПУ"
+                        ]
+                    },
+                    {
+                        "name": "Давід Сакварелідзе",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "ГПУ",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Центр Протидії Корупції",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "ГПУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/07/15",
+        "link": "https://antac.org.ua/news/300-miljoniv-hotily-vkrasty-na-remonti-luhanskyh-dorih/",
+        "title": "Не дали вкрасти 300 мільйонів на ремонті луганських доріг",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Центр протидії корупції",
+                        "position": "",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    },
+                    {
+                        "name": "Журналісти зНаших Грошей",
+                        "position": "",
+                        "affiliations": [
+                            ""
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Луганський укравтодор",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "21/07/15",
+        "link": "https://antac.org.ua/news/do-antykoruptsijnoho-byuro-ne-mozhut-znajty-kerivnyka-detektyviv-konkursna-komisiya/",
+        "title": "До Антикорупційного Бюро не можуть знайти керівника детективів – конкурсна комісія",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Член конкурсної комісії з відбору кандидатів до НАБ",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Національне Антикорупційне Бюро",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Генеральна прокуратура України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "21/07/15",
+        "link": "https://antac.org.ua/news/anons-sohodni-sud-rozhlyane-druhu-apelyatsiyu-hpu-u-spravi-diamantovyh-prokuroriv-habarnykiv-hpu-vymahatyme-zbilshyty-zastavu-v-10-raziv/",
+        "title": "АНОНС – суд розгляне другу апеляцію ГПУ у справі “діамантових прокурорів-хабарників”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Володимир Шапакін",
+                        "position": "Заступник голови слідчого управління Генпрокуратури",
+                        "affiliations": [
+                            "Генпрокуратура України"
+                        ]
+                    },
+                    {
+                        "name": "Глиняний В.П.",
+                        "position": "Суддя-доповідач",
+                        "affiliations": [
+                            "Апеляційний суд міста Києва"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/07/15",
+        "link": "https://antac.org.ua/news/tsentr-protydiji-koruptsiji-povernuv-v-byudzhet-3-mlrd-hryven-z-koruptsijnyh-zakupivel/",
+        "title": "Центр протидії корупції повернув у бюджет 3 млрд. з корупційних закупівель",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова правління",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Прокуратура",
+                    "Міліція",
+                    "Контролюючі органи"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/07/15",
+        "link": "https://antac.org.ua/news/aktyvisty-pid-hpu-vymahaly-zvilnennya-huzyrya-ta-zayavyly-pro-tysk-na-molodyh-slidchyh-i-prokuroriv/",
+        "title": "Активісти під ГПУ  вимагали звільнення Гузиря та заявили про тиск на молодих слідчих і прокурорів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Володимир Гузир",
+                        "position": "Перший заступник генерального прокурора",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    },
+                    {
+                        "name": "Шокін",
+                        "position": "Заступник генерального прокурора",
+                        "affiliations": [
+                            "Генеральна прокуратура України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Генеральна прокуратура України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "13/07/15",
+        "link": "https://antac.org.ua/news/pres-anons-huzyrya-na-nary-a-ne-v-vidpustku/",
+        "title": "АНОНС – акція: Гузиря на нари, а не на Канари!",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Володимир Гузир",
+                        "position": "Заступник генерального прокурора України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Генеральна Прокуратура України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/07/15",
+        "link": "https://antac.org.ua/news/scho-hovayut-pusti-deklaratsiji-chynovnykiv/",
+        "title": "АНОНС – акція: що ховають пусті декларації чиновників?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Володимир Гройсман",
+                        "position": "Прем'єр-міністр України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/06/15",
+        "link": "https://antac.org.ua/news/stalo-vidomo-prizvysche-novoho-holovy-derzhliksluzhby/",
+        "title": "Стало відомо прізвище нового голови Держлікслужби",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Гур'єван",
+                        "position": "Голова Державної служби лікарських засобів",
+                        "affiliations": [
+                            "Міністерство охорони здоров'я"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство охорони здоров'я",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Кабінет Міністрів України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Центр протидії корупції"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "24/06/15",
+        "link": "https://antac.org.ua/news/zachem-kvytashvyly-uverenno-y-enerhychno-nastupaet-na-hrably-musyya/",
+        "title": "Зачем Квиташвили уверенно и энергично наступает на грабли Мусия",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Раїса Богатирева",
+                        "position": "Міністр здравоохоронення"
+                    },
+                    {
+                        "name": "Олександр Квіташвілі",
+                        "position": "Міністр здравоохоронення"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство здравоохоронення",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18/06/15",
+        "link": "https://antac.org.ua/news/shah-i-mat-antykoruptsijnij-prokuraturi/",
+        "title": "Шах і Мат Антикорупційній прокуратурі",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Президент України",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Депутати",
+                        "position": "Депутати",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Генеральний прокурор",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Антикорупційна прокуратура",
+                    "Антикорупційне Бюро"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/06/15",
+        "link": "https://antac.org.ua/news/aktyvisty-pryvezly-pid-parlament-dvometrovyj-unitaz-zi-zlytymy-cpravamy-top-koruptsioneriv/",
+        "title": "Активісти привезли під Парламент двометровий унітаз зі “злитими” cправами ТОП-корупціонерів",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віталій Ярема",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олег Махніцький",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Юрій Луценко",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада",
+                    "Антикорупційне бюро"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "16/06/15",
+        "link": "https://antac.org.ua/news/anons-dlya-zmi-dvometrovyj-unitaz-pid-parlamentom-dlya-prezydenta-yakyj-zlyvaje-novu-antykoruptsijnu-prokuraturu/",
+        "title": "АНОНС – акція: двометровий унітаз під Парламентом",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Порошенко",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ярема",
+                        "position": "Невідомо",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Шокін",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Махніцький",
+                        "position": "Невідомо",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада",
+                    "Комітет з питань забезпечення правоохоронної діяльності"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "15/06/15",
+        "link": "https://antac.org.ua/news/polozhat-ly-antykorruptsyonnoe-byuro-pod-poroshenko/",
+        "title": "Положат ли Антикоррупционное бюро под Порошенко",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Генеральна прокуратура",
+                        "position": "ГПУ",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Национальне антикоррупційне бюро",
+                        "position": "НАБУ",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "12/06/15",
+        "link": "https://antac.org.ua/news/politychni-boji-za-antykoruptsijnu-prokuraturu-prohrayut-usi/",
+        "title": "Політичні бої за антикорупційну прокуратуру",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Адміністрація Президента",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Активісти та міжнародні кредитори України",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Парламент"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/06/15",
+        "link": "https://antac.org.ua/news/zamist-zolotyh-rodovysch-hpu-areshtuvala-lyshe-parkinh-ta-chvert-haty-zaharchenka/",
+        "title": "Замість золотих родовищ ГПУ арештувала лише паркінг та чверть хати Захарченка",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Захарченко",
+                        "position": "Екс-міністр внутрішніх справ",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/06/15",
+        "link": "https://antac.org.ua/news/chomu-serhij-klyujev-maje-sydity-za-hratamy-a-ne-v-parlamenti-karta-aktyviv-nardepa/",
+        "title": "Чому Сергій Клюєв має сидіти за гратами, а не в парламенті?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Клюєв",
+                        "position": "Депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віталій Ярема",
+                        "position": "Депутат",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада",
+                    "Генпрокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/06/15",
+        "link": "https://antac.org.ua/news/pres-anons-kabmin-sfalsyfikuvav-vybory-do-ahentstva-zapobihannya-koruptsiji/",
+        "title": "АНОНС – КабМін сфальсифікував вибори до Агентства запобігання корупції",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Кабінет Міністрів України",
+                        "position": "Уряд",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Комісія з вибору керівного складу Агентства з питань запобігання корупції",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "04/06/15",
+        "link": "https://antac.org.ua/news/hto-maje-sisty-yakscho-klyujev-vteche/",
+        "title": "Хто має сісти, якщо Клюєв втече?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Клюєв",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Шокін",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Наливайченко",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Аваков",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "ГПУ (Генеральна прокуратура України)",
+                    "ВР (Верховна Рада)"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "02/06/15",
+        "link": "https://antac.org.ua/news/aktyvisty-pid-vr-vymahaly-pozbavyty-serhiya-klyujeva-deputatskoho-imunitetu/",
+        "title": "Активісти під ВР вимагали позбавити Сергія Клюєва депутатського імунітету",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Клюєв",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "29/05/15",
+        "link": "https://antac.org.ua/news/znyaty-nedotorkannist-z-klyueva-abo-perevybory/",
+        "title": "АНОНС – акція: зняти недоторканність з Клюєва або перевибори!",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Клюєв",
+                        "position": "Народний депутат України",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Громадсьна організація"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/05/15",
+        "link": "https://antac.org.ua/news/uchasnyky-konkursu-do-rady-hromkontrolyu-pry-nabu-vymahayut-vyznaty-joho-nedijsnym/",
+        "title": "Активісти вимагають визнати конкурс в громраду НАБУ недійсним",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Денис Бігус",
+                        "position": "журналіст",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Дар’я Каленюк",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Максим Опанасенко",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Аліса Юрченко",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександра Устінова",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Роман Маселко",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Гуменюк",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Дмитро Чаплинський",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ярослав Юрчишин",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олексій Хмара",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Андрій Марусов",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Дмитро Шерембей",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Гула Сергій",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олексій Гриценко",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "26/05/15",
+        "link": "https://antac.org.ua/news/12-mlrd-koshtiv-na-liky-u-2014-vytracheni-neefektyvno-eksperty/",
+        "title": "1,2 млрд. коштів на ліки у 2014 витрачені неефективно – звіт",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство охорони здоров'я",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "21/05/15",
+        "link": "https://antac.org.ua/news/verhovna-rada-rujnue-nezalezhnist-antykoruptsijnoho-byuro/",
+        "title": "Верховна Рада руйнує незалежність Антикорупційного Бюро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Генеральний прокурор",
+                        "position": "Голова",
+                        "affiliations": [
+                            "Прокуратура"
+                        ]
+                    },
+                    {
+                        "name": "Президент",
+                        "position": "Глава держави",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України",
+                    "Національне антикорупційне бюро"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "20/05/15",
+        "link": "https://antac.org.ua/news/sprava-tabachnyka-batya-ya-rozsliduyu/",
+        "title": "Справа Табачника: ”Батя, я розслідую!”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дмитро Табачник",
+                        "position": "Колишній очільник Міністерства освіти",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Шокін",
+                        "position": "Екс-генпрокурор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Центр протидії корупції",
+                        "type": "Недержавна"
+                    },
+                    {
+                        "entity": "Служба безпеки України (СБУ)",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "07/05/15",
+        "link": "https://antac.org.ua/news/henprokuratura-znov-zlyvaje-sanktsiji-es-vitalij-shabunin/",
+        "title": "Генпрокуратура знов “зливає” санкції ЄС – Віталій Шабунін",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олена Лукаш",
+                        "position": "Екс-поплічник Януковича"
+                    },
+                    {
+                        "name": "Віктор Янукович-молодший",
+                        "position": "Екс-поплічник Януковича"
+                    },
+                    {
+                        "name": "Сергій Клюєв",
+                        "position": "Екс-поплічник Януковича"
+                    },
+                    {
+                        "name": "Дмитро Табачник",
+                        "position": "Екс-поплічник Януковича"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "07/05/15",
+        "link": "https://antac.org.ua/news/yarema-2-abo-hpu-znov-zlyvaje-sanktsiji-es/",
+        "title": "Ярема-2 або Генпрокуратура знов зливає санкції ЄС",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олена Лукаш",
+                        "position": "Екс-поплічник Януковича"
+                    },
+                    {
+                        "name": "Віктор Янукович-молодший",
+                        "position": "Екс-поплічник Януковича"
+                    },
+                    {
+                        "name": "Сергій Клюєв",
+                        "position": "Екс-поплічник Януковича"
+                    },
+                    {
+                        "name": "Дмитро Табачник",
+                        "position": "Екс-поплічник Януковича"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05/05/15",
+        "link": "https://antac.org.ua/news/misiya-mozhlyva-yak-povernuty-koruptsijni-aktyvy-ukrajini/",
+        "title": "Місія можлива. Як повернути корупційні активи Україні?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Уряд Яценюка",
+                        "position": "Уряд",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "національна система пошуку, конфіскації та управління арештованим і конфіскованим майном"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "27/04/15",
+        "link": "https://antac.org.ua/news/povernennya-aktyviv-choho-brakuje-v-ukrajini-zvit/",
+        "title": "Повернення активів: чого бракує в Україні?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "чиновника-корупціонера",
+                        "position": "невідомо",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "15/04/15",
+        "link": "https://antac.org.ua/news/na-polputy-k-zhyzny-chto-yzmenyt-peredacha-zakupok-lekarstv-v-oon/",
+        "title": "На полпути к жизни: что изменит передача закупок лекарств в ООН",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "ЮНІСЕФ",
+                        "position": "Міжнародна організація",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Всесвітня організація охорони здоров'я",
+                        "position": "Міжнародна організація",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "IDA Foundation",
+                        "position": "Міжнародна організація",
+                        "affiliations": [
+                            "Нідерланди"
+                        ]
+                    },
+                    {
+                        "name": "Crown Agents",
+                        "position": "Міжнародна організація",
+                        "affiliations": [
+                            "Велика Британія"
+                        ]
+                    },
+                    {
+                        "name": "Partnership for Supply Chain Management",
+                        "position": "Міжнародна організація",
+                        "affiliations": [
+                            "США"
+                        ]
+                    },
+                    {
+                        "name": "Global Drug Facility",
+                        "position": "Міжнародна організація",
+                        "affiliations": [
+                            "Швейцарія"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "06/04/15",
+        "link": "https://antac.org.ua/news/8604/",
+        "title": "АНОНС – обрання директора антикорупційного бюро під загрозою",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Антикорупційні експерти",
+                        "position": "Експерти",
+                        "affiliations": [
+                            "Невідомо"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Національне антикорупційне бюро",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "31/03/15",
+        "link": "https://antac.org.ua/news/anons-pres-konferentsiji-informatsiya-pro-ruhome-ta-neruhome-majno-stane-publichnoyu-ta-vidkrytoyu/",
+        "title": "АНОНС – інформація про рухоме та нерухоме майно стане публічною та відкритою",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "не зазначено",
+                        "position": "не зазначено",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "27/03/15",
+        "link": "https://antac.org.ua/news/yak-narodni-deputaty-vushni-palychky-z-zhyttjevo-vazhlyvymy-likamy-pereplutaly/",
+        "title": "Як народні депутати вушні палички з життєво важливими ліками переплутали",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Комітет з питань податкової та митної політики"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "23/03/15",
+        "link": "https://antac.org.ua/news/kandydaty-na-posadu-dyrektora-instytutu-raku-hto-hovajetsya-za-naukovymy-stupenyamy/",
+        "title": "Кандидати на посаду директора Інституту раку: хто ховається за науковими ступенями?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ігор Щєпотін",
+                        "position": "Директор Інституту раку"
+                    },
+                    {
+                        "name": "лікарі",
+                        "position": "лікарі"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Інститут раку",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Міністерство охорони здоров’я"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/03/15",
+        "link": "https://antac.org.ua/news/prostyj-retsept-podolannya-koruptsiji-v-ukrajini/",
+        "title": "Простий рецепт подолання корупції в Україні",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "група чи кілька груп пов’язаних осіб",
+                        "position": "контролює ключові державні інституції",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "13/03/15",
+        "link": "https://antac.org.ua/news/v-ap-prodovzhuyut-napolehlyvo-prosuvaty-svoho-kandydata-na-posadu-dyrektora-byuro/",
+        "title": "В АП продовжують наполегливо просувати свого кандидата на посаду директора Бюро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Президент",
+                        "position": "Голова",
+                        "affiliations": [
+                            "Адміністрація Президента"
+                        ]
+                    },
+                    {
+                        "name": "Директор Антикорупційного Бюро",
+                        "position": "Директор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Директор НАБ",
+                        "position": "Директор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Комісія"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/03/15",
+        "link": "https://antac.org.ua/news/ukrajina-mozhe-vtratyty-koshty-mvf-cherez-manipulyatsiji-z-vyborom-dyrektora-antykoruptsijnoho-byuro-vitalij-shabunin/",
+        "title": "Україна може втратити кошти МВФ через маніпуляції з вибором директора Антикорупційного бюро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Директор Антикорупційного Бюро",
+                        "position": "Директор",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Рада Міжнародного валютного фонду"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/03/15",
+        "link": "https://antac.org.ua/news/prezydent-i-premjer-rukamy-deputativ-hochut-zirvaty-konkurs-na-dyrektora-nab-vitalij-shabunin/",
+        "title": "Президент і Прем’єр руками депутатів хочуть зірвати конкурс на директора НАБ",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олександр Грановський",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Блок Петра Порошенка"
+                        ]
+                    },
+                    {
+                        "name": "Олексій Мушак",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Народний Фронт"
+                        ]
+                    },
+                    {
+                        "name": "Михайло Хміль",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Народний Фронт"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне антикорупційне бюро"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "06/03/15",
+        "link": "https://antac.org.ua/news/sanktsiji-z-poplichnykiv-yanukovycha-buly-znyati-cherez-bezdiyalnist-hpu-daryna-kalenyuk/",
+        "title": "Санкції з поплічників Януковича були зняті через бездіяльність ГПУ – Дарина Каленюк",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "екс-чиновників клану Януковича",
+                        "position": "невказано",
+                        "affiliations": [
+                            "Клан Януковича"
+                        ]
+                    },
+                    {
+                        "name": "18 колишніх високопосадовців",
+                        "position": "невказано",
+                        "affiliations": [
+                            "Україна"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Європейський Союз"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "06/03/15",
+        "link": "https://antac.org.ua/news/sproby-vr-zminyty-pravyla-hry-naprykintsi-konkursu-ataka-na-nezalezhnist-rishennya-komisiji-dzhovanni-kessler/",
+        "title": "Спроби ВР змінити правила гри наприкінці конкурсу – атака на незалежність рішення комісії – Джованні Кесслер",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Джованні Кесслер",
+                        "position": "Директор Європейського управління боротьби із шахрайством",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України",
+                    "Президент України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "02/03/15",
+        "link": "https://antac.org.ua/news/pryznachennya-dyrektora-antykoruptsijnoho-byuro-zmozhe-buty-oskarzhene-v-sudi/",
+        "title": "Призначення директора Антикорупційного бюро зможе бути оскаржено в суді",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Давід Сакварелідзе",
+                        "position": "Кандидат на посаду директора",
+                        "affiliations": [
+                            "НАБ"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Антикорупційне бюро"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/02/15",
+        "link": "https://antac.org.ua/news/farmatsevtychna-mafiya-u-radi-blokuje-peredachu-zakupivel-likiv-mizhnarodnym-orhanizatsiyam/",
+        "title": "Фармацевтична мафія у Раді блокує передачу закупівель ліків міжнародним організаціям",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Гліб Загорій",
+                        "position": "Власник фармацевтичної компанії",
+                        "affiliations": [
+                            "Дарниця"
+                        ]
+                    },
+                    {
+                        "name": "Олександр Третяков",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Дроздик",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Ігор Алексєєв",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "І Сисоєнко",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "К Яриніч",
+                        "position": "Народний депутат",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Дарниця",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/02/15",
+        "link": "https://antac.org.ua/news/koalitsiya-zablokuvala-zakon-pro-antykoruptsijne-byuro/",
+        "title": "Коаліція заблокувала закон про Антикорупційне Бюро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "депутатів",
+                        "position": "члени Комітету ВРУ з питань запобігання і протидії корупції"
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Національне антикорупційне бюро",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Національне агентство з питань запобігання корупції",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "11/02/15",
+        "link": "https://antac.org.ua/news/skandalnoho-dyrektora-natsionalnoho-instytutu-raku-zvilnyat-z-posady/",
+        "title": "Скандального директора Національного інституту раку звільнять з посади",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ігор Щепотін",
+                        "position": "Директор Інституту раку",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Інститут раку",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "Міністерство охорони здоров’я",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "04/02/15",
+        "link": "https://antac.org.ua/news/nasha-komanda-zapustyla-proekt-pro-tyh-hto-krade-derzhavni-hroshi/",
+        "title": "ЦПК запустили сайт про тендерних крадіїв та їх схеми",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Чиновники та правоохоронці",
+                        "position": "Невказано",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "03/02/15",
+        "link": "https://antac.org.ua/news/antykoruptsijne-byuro-politychni-torhy-za-nezalezhnist/",
+        "title": "Антикорупційне Бюро: політичні торги за незалежність",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Коаліційна угода",
+                        "position": "",
+                        "affiliations": [
+                            "Верховна Рада VIII скликання"
+                        ]
+                    },
+                    {
+                        "name": "Фракції у Верховній Раді",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Кабінет Міністрів",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Адміністрація Президента",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада",
+                    "Кабінет Міністрів",
+                    "Адміністрація Президента"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/01/15",
+        "link": "https://antac.org.ua/news/yak-poroshenko-manipulyuje-konkursnoyu-komisijeyu-antykoruptsijnoho-byuro/",
+        "title": "Як Порошенко маніпулює конкурсною комісією Антикорупційного Бюро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "message": "No corruption-related data found."
+            }
+        ]
+    },
+    {
+        "date": "28/12/14",
+        "link": "https://antac.org.ua/news/hrojsman-blokuje-holosuvannya-zakonoproektu-pro-natsionalne-antykoruptsijne-byuro/",
+        "title": "Гройсман блокує голосування законопроекту про Національне Антикорупційне Бюро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Володимир Гройсман",
+                        "position": "Голова Верховної Ради України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Юрій Луценко",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Петро Порошенко",
+                        "position": "Президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Національне Антикорупційне Бюро"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/12/14",
+        "link": "https://antac.org.ua/news/schonajmenshe-3-mln-hryven-z-jevropejskoji-dopomohy-hotily-zarobyty-na-povenyah-v-karpatah/",
+        "title": "3 млн гривень з європейської допомоги хотіли розпиляти на повенях у Карпатах",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова правління",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Компанія, що уклала договір на постачання обладнання",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Чиновники Чернівецької області"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "24/12/14",
+        "link": "https://antac.org.ua/news/bez-zmin-do-zakonu-antykoruptsijne-byuro-napovnyat-perevertni/",
+        "title": "Без змін до закону Антикорупційне Бюро наповнять перевертні",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "прокурорів",
+                        "position": "прокурори",
+                        "affiliations": [
+                            "спеціально уповноважені підрозділи по боротьбі з корупцією"
+                        ]
+                    },
+                    {
+                        "name": "слідчих",
+                        "position": "слідчі",
+                        "affiliations": [
+                            "спеціально уповноважені підрозділи по боротьбі з корупцією"
+                        ]
+                    },
+                    {
+                        "name": "оперативників",
+                        "position": "оперативники",
+                        "affiliations": [
+                            "спеціально уповноважені підрозділи по боротьбі з корупцією"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "19/12/14",
+        "link": "https://antac.org.ua/news/wtf-u-avakova-zakryly-kryminalnu-spravu-sashi-yanukovycha/",
+        "title": "WTF!? У Авакова закрили кримінальну справу Саші Януковича",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Саша “Стоматолог",
+                        "position": "Власник",
+                        "affiliations": [
+                            "Всеукраїнський Банк Розвитку"
+                        ]
+                    },
+                    {
+                        "name": "Осипенко Р.І.",
+                        "position": "Начальник Шевченківського РУ ГУМВС України в м Києві",
+                        "affiliations": [
+                            "ГУМВС України"
+                        ]
+                    },
+                    {
+                        "name": "Тімонькін Олег Вікторович",
+                        "position": "Старший слідчий слідчого відділу Шевченківського РУ МВС",
+                        "affiliations": [
+                            "МВС України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Всеукраїнський Банк Розвитку",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Податкова",
+                    "МВС",
+                    "Судові управління Києва та Донецька"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/12/14",
+        "link": "https://antac.org.ua/news/hpu-zlyvaje-sanktsiji-ivanyuschenko-pershyj/",
+        "title": "ГПУ зливає санкції. Іванющенко – перший",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Ярема",
+                        "position": "Генеральний прокурор",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Янукович",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "ГПУ"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/12/14",
+        "link": "https://antac.org.ua/news/komitet-dev-yaty-hto-obere-dyrektora-antykoruptsijnoho-byuro/",
+        "title": "”Комітет Дев’яти”: хто обере директора Антикорупційного Бюро?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "народні депутати",
+                        "position": " ",
+                        "affiliations": [
+                            " "
+                        ]
+                    },
+                    {
+                        "name": " ",
+                        "position": " ",
+                        "affiliations": [
+                            " "
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Національне Антикорупційне Бюро",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Міністерства",
+                    "Суди",
+                    "Прокуратури"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "01/12/14",
+        "link": "https://antac.org.ua/news/tajemne-staje-yavnym-scho-zminyt-zakon-pro-kintsevyh-vlasnykiv/",
+        "title": "Таємне стає явним. Що змінить закон про кінцевих власників?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "високопосадовець",
+                        "position": "невідомо",
+                        "affiliations": [
+                            "юристи-консультанти"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "українські компанії",
+                        "type": "приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "27/11/14",
+        "link": "https://antac.org.ua/news/prokuratura-rozsliduje-diyalnist-zlochevskoho-za-zayavoyu-tspk/",
+        "title": "Прокуратура розслідує діяльність Злочевського за заявою ЦПК",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Злочевський",
+                        "position": "Екс-міністр екології та природних ресурсів",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олена Щербан",
+                        "position": "Юрист",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    },
+                    {
+                        "name": "Микола Азаров",
+                        "position": "Голова уряду",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "27/11/14",
+        "link": "https://antac.org.ua/news/za-zayavoyu-tspk-prokuratura-porushyla-kryminalnu-spravu-schodo-chynovnykiv-moz/",
+        "title": "Прокурори порушили кримінальну справу щодо чиновників МОЗ за заявою ЦПК",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Руслан Салютін",
+                        "position": "Колишній перший заступник міністра та голова тендерного комітету МОЗ у 2014 році",
+                        "affiliations": [
+                            "Міністерство охорони здоров'я"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство охорони здоров'я",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Прокуратура Києва",
+                    "Центр протидії корупції"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/11/14",
+        "link": "https://antac.org.ua/news/u-hpu-vidmovlyayutsya-vidkryvaty-spravu-schodo-eks-ministra-uryadu-azarova/",
+        "title": "У ГПУ відмовляються відкривати справу щодо екс-міністра уряду Азарова",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Микола Злочевський",
+                        "position": "Екс-міністр екології та природних ресурсів уряду Азарова",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України",
+                    "Прокуратура м. Києва",
+                    "Британські правоохоронці"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "31/10/14",
+        "link": "https://antac.org.ua/news/tspk-cherez-sud-zmusyv-hpu-vidkryty-kryminalnu-spravu-proty-odioznoho-chynovnyka-minoborony/",
+        "title": "ЦПК через суд змусив ГПУ відкрити кримінальну справу проти одіозного чиновника Міноборони",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Максим Гольдарб",
+                        "position": "Директор департаменту внутрішнього аудиту та фінансового контролю Міністерства оборони України",
+                        "affiliations": [
+                            "Міністерство оборони України"
+                        ]
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Генеральна прокуратура України",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Центр протидії корупції (ЦПК)",
+                        "type": "Громадська організація"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Печерський суд міста Києва",
+                    "Збройні сили"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/10/14",
+        "link": "https://antac.org.ua/news/deputaty-vnochi-zminyly-tekst-zakonoproektu-pro-antykoruptsijne-byuro/",
+        "title": "Депутати вночі змінили текст законопроекту про Антикорупційне Бюро – хочуть позбутися небезпечного органу",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Сергій Пашинський",
+                        "position": "Народний депутат",
+                        "affiliations": [
+                            "Народний фронт"
+                        ]
+                    },
+                    {
+                        "name": "Ростислав Павленко",
+                        "position": "Колишній політтехнолог Віталія Кличка",
+                        "affiliations": [
+                            "УДАР"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "01/10/14",
+        "link": "https://antac.org.ua/news/aktyvisty-zakydaly-narodnyh-deputativ-pomidoramy/",
+        "title": "Активісти закидали народних депутатів гнилими помідорами",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Дарина Каленюк",
+                        "position": "учасниця акції",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "16/09/14",
+        "link": "https://antac.org.ua/news/lovochkina-bahtjejeva-baloha-ta-inshi-provalyly-holosuvannya-za-antykoruptsijne-byuro/",
+        "title": "Льовочкіна, Бахтєєва, Балога та інші провалили голосування за Антикорупційне Бюро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Бахтєєва Т.Д.",
+                        "position": "",
+                        "affiliations": [
+                            "Батьківщина"
+                        ]
+                    },
+                    {
+                        "name": "Льовочкін Ю.В.",
+                        "position": "",
+                        "affiliations": [
+                            "Партія Регіонів"
+                        ]
+                    },
+                    {
+                        "name": "Балога П.І.",
+                        "position": "",
+                        "affiliations": [
+                            "Партія Регіонів"
+                        ]
+                    },
+                    {
+                        "name": "Демішкан В.Ф.",
+                        "position": "",
+                        "affiliations": [
+                            "УДАР"
+                        ]
+                    },
+                    {
+                        "name": "Пінчук А.П.",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Онищенко О.Р.",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Богдан Р.Д.",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Колганова О.В.",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Купрейчик І.В.",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Чубатенко О.М.",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Шульга В.П.",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Іщенко В.О.",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Кацубк С.В.",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Верховна Рада України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "15/09/14",
+        "link": "https://antac.org.ua/news/yanukovych-pshonka-ta-azarov-podyakuvaly-nardepam-za-vidsutnje-antykoruptsijne-byuro/",
+        "title": "“Янукович”, “Пшонка” та “Азаров” подякували нардепам за відсутнє антикорупційне бюро",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Президент",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Янукович",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Віктор Пшонка",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Микола Азаров",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "08/09/14",
+        "link": "https://antac.org.ua/news/v-ukrajini-stvoryat-stvoryat-spetsialnyj-orhan-dlya-borotby-z-koruptsijeyu-sered-vysokoposadovtsiv/",
+        "title": "В Україні створять спеціальний орган для боротьби з корупцією серед високопосадовців",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "message": "No corruption-related data found."
+            }
+        ]
+    },
+    {
+        "date": "22/08/14",
+        "link": "https://antac.org.ua/news/uryad-proponujeje-vvesty-kryminalnu-vidpovidalnist-za-nezakonne-zbahachennya/",
+        "title": "Уряд пропонує ввести кримінальну відповідальність за незаконне збагачення",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віталій Шабунін",
+                        "position": "Голова правління",
+                        "affiliations": [
+                            "Центр протидії корупції"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Кабінет Міністрів України",
+                    "Національне Антикорупційне Бюро"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/08/14",
+        "link": "https://antac.org.ua/news/protydiya-koruptsiji-u-sferi-derzhavnyh-zakupivel-yak-zmusyty-pravoohoronni-orhany-pratsyuvaty-zvit/",
+        "title": "Протидія корупції у сфері державних закупівель: як змусити правоохоронні органи працювати – звіт",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Служба безпеки України (СБУ)",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "05/08/14",
+        "link": "https://antac.org.ua/news/farmatsevtychni-kompaniji-pidnyaly-tsiny-na-liky-dlya-ukrajiny-do-300/",
+        "title": "Фармацевтичні компанії підняли ціни на ліки для України до 300%",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Пацієнтські організації",
+                        "position": "Представники",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Фармацевтичні компанії",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18/07/14",
+        "link": "https://antac.org.ua/news/hromadski-aktyvisty-dobylysya-vidkryttya-kryminalnoji-spravy-proty-efremova/",
+        "title": "AntAC Helps Bring Criminal Case against Party of Regions Faction Head",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олександр Єфремов",
+                        "position": "Голова фракції Партії регіонів",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Державне підприємство 'Луганьквугілля'",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "ТОВ 'ДС-8'",
+                        "type": "Приватна"
+                    },
+                    {
+                        "entity": "ТОВ 'Індекспром'",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": [
+                    "Генеральна прокуратура України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "02/07/14",
+        "link": "https://antac.org.ua/news/scho-robyt-ukrajina-dlya-povernennya-z-za-kordonu-zlochynno-nabutyh-statkiv-eks-posadovtsiv/",
+        "title": "Що робить Україна для повернення з-за кордону злочинно набутих статків екс-посадовців?",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Європейський союз",
+                        "position": "",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Генеральна прокуратура України",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "20/05/14",
+        "link": "https://antac.org.ua/news/znimajemo-masky-z-kandydativ-mazhorytarnykiv-u-kyjivradu/",
+        "title": "Знімаємо маски з кандидатів-мажоритарників у Київраду",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "кандидати-мажоритарщики",
+                        "position": "кандидати",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Київська міська рада"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "16/03/14",
+        "link": "https://antac.org.ua/news/hromadskist-zasterihae-uryad-ssha-spochatku-antykoruptsijni-zakony-potim-hroshi/",
+        "title": "Спочатку антикорупційні закони, потім – гроші",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Олександр Турчинов",
+                        "position": "Спікер Верховної Ради"
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Парламент України"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "16/03/14",
+        "link": "https://antac.org.ua/news/portret-putyna-v-faktah-y-tsyfrah-spetsyalno-dlya-kryimchan/",
+        "title": "Портрет Путина в фактах и цифрах: специально для крымчан",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Путін",
+                        "position": "Президент Росії",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "13/01/14",
+        "link": "https://antac.org.ua/news/dlya-tyh-hto-ne-spyt-zhyvit-chesno-zamorozheni-aktyvy-poradnyk-dlya-korystuvacha/",
+        "title": "Для тих, хто не спить: живіть чесно… Заморожені активи. Порадник для користувача",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Керівник",
+                        "position": "Начальник",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Бухгалтери",
+                        "position": "Бухгалтери",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/01/14",
+        "link": "https://antac.org.ua/news/statky-zlochynnoji-vlady-oleksandr-yanukovych/",
+        "title": "Статки злочинної влади. Олександр Янукович",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Мережа компаній-прокладок та професійних посередників",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/01/14",
+        "link": "https://antac.org.ua/news/statky-zlochynnoji-vlady-viktor-yanukovych/",
+        "title": "Статки злочинної влади. Віктор Янукович",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Мережа компаній-прокладок",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/01/14",
+        "link": "https://antac.org.ua/news/yak-zamorozyty-rahunky-koruptsionera-instruktsiya/",
+        "title": "Як заморозити рахунки корупціонера – інструкція",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "корупціонери",
+                        "position": "влада",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/01/14",
+        "link": "https://antac.org.ua/news/prokladky-zlochynnoji-vlady-rejnhard-proksh/",
+        "title": "Прокладки злочинної влади. Рейнхард Прокш",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "мережа компаній-прокладок та професійних посередників",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/01/14",
+        "link": "https://antac.org.ua/news/statky-zlochynnoji-vlady-oleksandr-efremov/",
+        "title": "Статки злочинної влади. Олександр Єфремов",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Мережа компаній-прокладок",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "10/01/14",
+        "link": "https://antac.org.ua/news/statky-zlochynnoji-vlady-andrij-ta-serhij-klyujevy/",
+        "title": "Статки злочинної влади. Андрій та Сергій Клюєви",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Президент",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "компанії-прокладки та професійні посередники",
+                        "type": "Приватна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18/12/13",
+        "link": "https://antac.org.ua/news/hto-zaroblyaje-na-epidemiyah-vil-snidu-ta-tuberkulozu-v-ukrajini-zvit/",
+        "title": "Хто заробляє на епідеміях ВІЛ/СНІДу та туберкульозу в Україні – звіт",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [],
+                "legal_entities": [
+                    {
+                        "entity": "Міністерство охорони здоров'я України",
+                        "type": "Державна"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "06/12/13",
+        "link": "https://antac.org.ua/news/tsentr-protydiji-koruptsiji-ta-pepwatch-zapustyly-sajt-pro-statky-simji-z-instruktsijeyu-po-jih-zamorozhennyu/",
+        "title": "ЦПК та PEPWATCH запустили сайт про статки Сім’ї з інструкцією по їх замороженню",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Віктор Янукович",
+                        "position": "Президент України",
+                        "affiliations": []
+                    },
+                    {
+                        "name": "Олександр Янукович",
+                        "position": "Син Віктора Януковича",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "18/11/13",
+        "link": "https://antac.org.ua/news/evrokomisiya-obitsyaje-vizovu-liberalizatsiyu-yakscho-derzhzakupivli-stanut-prozorymy/",
+        "title": "Єврокомісія обіцяє візову лібералізацію, якщо держзакупівлі стануть прозорими",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Йен Томбінськів",
+                        "position": "Посол Європейського Союзу в Україні",
+                        "affiliations": [
+                            "Європейський Союз"
+                        ]
+                    }
+                ],
+                "legal_entities": [],
+                "offshore": [],
+                "government_bodies": [
+                    "Європейська комісія"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "15/11/13",
+        "link": "https://antac.org.ua/news/sche-shist-hromadskyh-orhanizatsij-doluchylysya-do-kampaniji-povernennya-hroshej-lazarenka/",
+        "title": "Ще шість громадських організацій долучилися до кампанії повернення “грошей Лазаренка”",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Лазаренко",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Transparency International-Україна",
+                        "type": "Громадська"
+                    },
+                    {
+                        "entity": "ВМГО “Фундація Регіональних Ініціатив”",
+                        "type": "Громадська"
+                    },
+                    {
+                        "entity": "ГО “Товариство жителів Гути”",
+                        "type": "Громадська"
+                    },
+                    {
+                        "entity": "Запорізька обласна організація “Народний Захист”",
+                        "type": "Громадська"
+                    },
+                    {
+                        "entity": "ГО “Центр Політичних Студій та Аналітики”",
+                        "type": "Громадська"
+                    },
+                    {
+                        "entity": "Карпатське агенство прав людини “ВЕСТЕД”",
+                        "type": "Громадська"
+                    }
+                ],
+                "offshore": [],
+                "government_bodies": []
+            }
+        ]
+    },
+    {
+        "date": "11/11/13",
+        "link": "https://antac.org.ua/news/zaproshujemo-ho-doluchytysya-do-hromadskoji-kampaniji-povernennya-hroshej-lazarenka/",
+        "title": "Активісти повертатимуть “грошей Лазаренка” самотужки",
+        "author": "No Author",
+        "corruption_data": [
+            {
+                "individuals": [
+                    {
+                        "name": "Павло Лазаренко",
+                        "position": "",
+                        "affiliations": []
+                    }
+                ],
+                "legal_entities": [
+                    {
+                        "entity": "Громадські організації України",
+                        "type": "Громадська"
+                    },
+                    {
+                        "entity": "Департамент юстиції США",
+                        "type": "Державна"
+                    },
+                    {
+                        "entity": "Незалежна благодійна фундація в Україні",
+                        "type": "Благодійна"
+                    }
+                ],
+                "offshore": [
+                    "Гернсі",
+                    "Антигуа",
+                    "Швейцарія",
+                    "Литва",
+                    "Ліхтенштейн"
+                ],
+                "government_bodies": [
+                    "Уряд США"
+                ]
+            }
+        ]
+    }
+]
