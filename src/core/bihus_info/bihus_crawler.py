@@ -1,8 +1,8 @@
 from json import dump
 from asyncio import sleep
 
-from helium import start_chrome, find_all, click, Text, wait_until, kill_browser
 from bs4 import BeautifulSoup
+from helium import start_chrome, find_all, click, Text, wait_until, kill_browser
 
 from loguru import logger
 

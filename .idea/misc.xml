@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Poetry (osit_data_prompts)" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (osit_data_prompts)" project-jdk-type="Python SDK" />
 </project>

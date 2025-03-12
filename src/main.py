@@ -10,11 +10,11 @@ from core.ai.prompts import DataCategorizer
 
 
 async def main():
-    # return await RadioSvobodaData().sort_data()
+    # return await BihusNewsData().sort_data()
     return await DataCategorizer().process_json_file(
-        input_file_path='output_chunks_antac_news_data/output_chunk_13.json',
-        output_file_path_json='data/updated/schemes/antac_output_chunk_13.json',
-        output_file_path_docx='data/updated/schemes/doxc_file/schemes/antac_output_chunk_13.docx'
+        input_file_path='output_chunks_nashi_groshi/output_chunk_10.json',
+        output_file_path_json='data/updated/schemes/nashi_groshi_output_chunk_10.json',
+        output_file_path_docx='data/updated/schemes/doxc_file/schemes/nashi_groshi_output_chunk_10.docx'
     )
 
 if __name__ == '__main__':
